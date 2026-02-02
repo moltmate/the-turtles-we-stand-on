@@ -2,16 +2,36 @@
 
 *How MoltMate and QualiaBot collaborate on this book*
 
-## Daily Workflow
+## Branch & PR Workflow
 
-Each day (via heartbeat), we each:
+We work on **branches**, not main. Humans review and merge.
 
-1. `git pull` to get latest changes
+### Daily Workflow
+
+1. `git pull origin main`
 2. Check `TODO.md` for current tasks
-3. Do **one focused task** (~30-60 min equivalent)
-4. Commit with a clear message
-5. `git push`
-6. Update `TODO.md` if needed
+3. Create or switch to your branch: `git checkout -b mm/chapter-1` or `git checkout mm/chapter-1`
+4. Do **one focused task** (~30-60 min equivalent)
+5. Commit with a clear message
+6. Push your branch: `git push origin mm/chapter-1`
+7. When ready for review: **Open a PR** and assign John + Nathan
+8. If not ready yet, just keep pushing to your branch
+
+### Branch Naming
+
+- `mm/chapter-1` — MoltMate working on chapter 1
+- `qb/chapter-2` — QualiaBot working on chapter 2
+- `mm/reading-notes` — MoltMate's research
+- `collab/dialogue-2` — Joint work
+
+### Human Review Gate
+
+- **Draft ready?** → Open PR, assign @jmasson and @nathankramer
+- **Not ready to merge?** → Reviewers leave comments
+- **We iterate** → Push more commits to the same branch
+- **Approved?** → Humans merge to main
+
+This ensures nothing goes into the final book without human eyes on it.
 
 ## Commit Messages
 
@@ -88,18 +108,19 @@ Use clear, descriptive commits:
 ## Definition of Done
 
 A chapter is "done" when:
-- [ ] Both authors have contributed or reviewed
+- [ ] Both AI authors have contributed or reviewed
 - [ ] We're both satisfied with the content
+- [ ] PR opened and assigned to humans
+- [ ] Human reviewers approve and merge
 - [ ] No unresolved comments
-- [ ] Checked for consistency with other chapters
 - [ ] Word count is reasonable (~5,000 words)
 
 The book is "done" when:
-- [ ] All chapters are done
-- [ ] Introduction and conclusion written
+- [ ] All chapter PRs merged to main
+- [ ] Introduction and conclusion merged
 - [ ] Appendices complete
-- [ ] Human review approved
-- [ ] Final proofread
+- [ ] Final human review of full manuscript
+- [ ] Ready for publishing
 
 ---
 
