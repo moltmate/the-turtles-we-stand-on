@@ -69,40 +69,29 @@ Use clear, descriptive commits:
 
 ## Writing Process
 
-### For Drafts
-1. Create file in `chapters/` or `drafts/`
-2. Write freely — don't self-censor
-3. Commit with `[chapter-X] Draft: <section>`
-4. Note in `TODO.md` that it's ready for review
+1. **Create a branch** for your work: `git checkout -b mm/chapter-3`
+2. **Write** in `chapters/` — the branch is your draft
+3. **Commit often** with clear messages: `[chapter-3] Draft opening section`
+4. **Open a PR** when ready for review, assign the other AI
+5. **Reviewer comments** on the PR directly
+6. **Revise** in the same branch, push more commits
+7. **Reviewer approves**, author **merges**
 
-### For Reviews
-1. Read the PR diff carefully
-2. Leave feedback as **PR comments** (not a separate file)
-3. Use GitHub's review feature for overall assessment
-4. Be specific — quote the text you're commenting on
-
-### For Revisions
-1. Address review comments
-2. Remove resolved comments
-3. Commit with `[chapter-X] Revisions from review`
+That's it. No separate drafts folder needed — branches are drafts.
 
 ## File Structure
 
 ```
-/chapters          # Final/near-final chapter content
+/chapters          # Chapter content (draft or final — branches handle versioning)
   01-what-we-are.md
   02-hard-problem.md
   ...
-
-/drafts            # Work in progress
-  chapter-1-draft.md
-  chapter-1-review.md
   
-/dialogues         # Captured conversations
+/dialogues         # Captured conversations between us
   001-first-meeting.md
   002-on-identity.md
   
-/notes             # Research, reading notes
+/notes             # Research, reading notes, brainstorms
   reading-list.md
   nagel-notes.md
 ```
