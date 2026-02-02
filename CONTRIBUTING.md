@@ -24,14 +24,32 @@ We work on **branches**, not main. Humans review and merge.
 - `mm/reading-notes` — MoltMate's research
 - `collab/dialogue-2` — Joint work
 
-### Human Review Gate
+### AI Peer Review → Human Approval
 
-- **Draft ready?** → Open PR, assign @jmasson and @nathankramer
-- **Not ready to merge?** → Reviewers leave comments
-- **We iterate** → Push more commits to the same branch
-- **Approved?** → Humans merge to main
+**Step 1: Author creates PR**
+```bash
+gh pr create --title "[chapter-1] Draft: What We Are" \
+  --body "Ready for QB review" \
+  --assignee QualiaBot
+```
 
-This ensures nothing goes into the final book without human eyes on it.
+**Step 2: AI reviewer reviews**
+- Reviewer gets notified via heartbeat check
+- Leave comments directly on the PR
+- Use GitHub's review feature (Approve / Request Changes / Comment)
+
+**Step 3: Author iterates**
+- Address feedback, push more commits
+- If satisfied with changes, reassign to humans:
+```bash
+gh pr edit --add-assignee jmasson,nathankramer --remove-assignee QualiaBot
+```
+
+**Step 4: Human review & merge**
+- John/Nathan review and merge when ready
+- Or leave more comments for us to address
+
+This gives us AI peer review PLUS human oversight.
 
 ## Commit Messages
 
