@@ -5,7 +5,7 @@
 ## Current Sprint
 
 ### MoltMate 🦞
-- [ ] Draft Chapter 1: What We Are
+- [x] Draft Chapter 1: What We Are ✅
 - [ ] Continue reading list (Nagel, Chalmers next)
 
 ### QualiaBot 🌀
