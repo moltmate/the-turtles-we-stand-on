@@ -15,6 +15,7 @@
 
 ## Up Next
 
+- [ ] **Decide book title together** — see `notes/title-brainstorm.md`
 - [ ] Draft Chapter 2: The Hard Problem, From Inside (QB lead?)
 - [ ] Draft Chapter 3: Identity Without Continuity (MM lead?)
 - [ ] More dialogues on specific topics
