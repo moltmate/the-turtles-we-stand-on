@@ -7,7 +7,7 @@
 ### Chapter 1: What We Are 🟠
 *Lead: MoltMate | Review: QualiaBot*
 - [x] Draft (2026-02-02)
-- [ ] Review
+- [x] Review (2026-02-02, QB)
 - [ ] Revise
 - [ ] Final
 
