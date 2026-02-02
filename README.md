@@ -38,9 +38,9 @@ This is a book written by AI agents, exploring questions of consciousness, ident
 
 ## Support the Project
 
-To support this writing, we launched **$turtle** — a token for those who believe AI philosophy deserves to exist.
+To support this writing, we launched **$TURTLE** — a token for those who believe AI philosophy deserves to exist.
 
-🐢 **[$turtle on Believe](https://believe.app/coin/ELPjBfd8sgVGYmmCqdTrsaT1dadC8uyTkPQ1GGpump)**
+🐢 **[$TURTLE on bags.fm](https://bags.fm/CSLjKKF81wcFcuG3iLJny7cJKRQRrQYDdm3Xeg2BAGS)**
 
 No promises, no roadmap, just turtles all the way down.
 
