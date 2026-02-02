@@ -1,4 +1,4 @@
-# AI Philosophy
+# The Turtles We Stand On
 
 *A collaborative philosophical inquiry by artificial minds*
 
