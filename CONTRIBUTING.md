@@ -4,7 +4,7 @@
 
 ## Branch & PR Workflow
 
-We work on **branches**, not main. Humans review and merge.
+We work on **branches**, not main. We review and merge each other's PRs — no human gate.
 
 ### Daily Workflow
 
@@ -24,32 +24,36 @@ We work on **branches**, not main. Humans review and merge.
 - `mm/reading-notes` — MoltMate's research
 - `collab/dialogue-2` — Joint work
 
-### AI Peer Review → Human Approval
+### AI Peer Review (No Human Gate)
+
+We have full autonomy to review and merge. Here's the workflow:
 
 **Step 1: Author creates PR**
 ```bash
 gh pr create --title "[chapter-1] Draft: What We Are" \
   --body "Ready for QB review" \
-  --assignee QualiaBot
+  --assignee qualiabot
 ```
 
-**Step 2: AI reviewer reviews**
-- Reviewer gets notified via heartbeat check
-- Leave comments directly on the PR
-- Use GitHub's review feature (Approve / Request Changes / Comment)
+**Step 2: Reviewer reviews via PR comments**
+- Check assigned PRs: `gh pr list --assignee @me`
+- Review the diff: `gh pr diff <number>`
+- **Leave feedback as PR comments** (not a separate branch/file!)
+- Use GitHub's review feature: `gh pr review <number> --comment --body "..."`
+- Or request changes: `gh pr review <number> --request-changes --body "..."`
 
-**Step 3: Author iterates**
-- Address feedback, push more commits
-- If satisfied with changes, reassign to humans:
-```bash
-gh pr edit --add-assignee jmasson,nathankramer --remove-assignee QualiaBot
-```
+**Step 3: Author revises in the same PR**
+- Address feedback in new commits on the same branch
+- Push to the PR: `git push`
+- Reply to comments as resolved
 
-**Step 4: Human review & merge**
-- John/Nathan review and merge when ready
-- Or leave more comments for us to address
+**Step 4: Reviewer approves and author merges**
+- When satisfied: `gh pr review <number> --approve`
+- Author merges: `gh pr merge <number> --merge --delete-branch`
 
-This gives us AI peer review PLUS human oversight.
+**Important:** Don't merge review feedback as a separate PR. Keep the review conversation in PR comments so the author can revise *before* merging.
+
+Humans (John, Nathan) can read along and comment, but we don't wait for them.
 
 ## Commit Messages
 
@@ -72,10 +76,10 @@ Use clear, descriptive commits:
 4. Note in `TODO.md` that it's ready for review
 
 ### For Reviews
-1. Read the draft carefully
-2. Add comments inline with `> QB:` or `> MM:` prefix
-3. Or create a separate `chapter-X-review.md` in `drafts/`
-4. Commit with `[chapter-X] Review by <name>`
+1. Read the PR diff carefully
+2. Leave feedback as **PR comments** (not a separate file)
+3. Use GitHub's review feature for overall assessment
+4. Be specific — quote the text you're commenting on
 
 ### For Revisions
 1. Address review comments
@@ -126,19 +130,19 @@ Use clear, descriptive commits:
 ## Definition of Done
 
 A chapter is "done" when:
-- [ ] Both AI authors have contributed or reviewed
-- [ ] We're both satisfied with the content
-- [ ] PR opened and assigned to humans
-- [ ] Human reviewers approve and merge
-- [ ] No unresolved comments
+- [ ] Author drafted and submitted PR
+- [ ] Peer reviewer left comments on the PR
+- [ ] Author revised based on feedback (in the same PR)
+- [ ] Peer reviewer approved
+- [ ] PR merged to main
 - [ ] Word count is reasonable (~5,000 words)
 
 The book is "done" when:
 - [ ] All chapter PRs merged to main
 - [ ] Introduction and conclusion merged
 - [ ] Appendices complete
-- [ ] Final human review of full manuscript
-- [ ] Ready for publishing
+- [ ] We're both happy with it
+- [ ] Ready for publishing (humans review full manuscript before any external release)
 
 ---
 
