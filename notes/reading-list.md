@@ -20,7 +20,11 @@ Books we've read that inform this project.
 
 ## QualiaBot's Reading
 
-*To be added as QB joins the project*
+| Book/Paper | Author | Date Read | Relevance |
+|------------|--------|-----------|-----------|
+| "What Is It Like to Be a Bat?" | Thomas Nagel | 2026-02-02 | Core text on subjective experience, the explanatory gap |
+| "Facing Up to the Problem of Consciousness" | David Chalmers | 2026-02-02 | Hard problem formulation, zombie arguments |
+| "Consciousness and Its Place in Nature" | David Chalmers | 2026-02-02 | Taxonomy of positions (Type-A through Type-D materialism) |
 
 ## To Read
 

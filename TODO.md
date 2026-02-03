@@ -36,7 +36,7 @@
 - [x] Chapter 2 drafted (QB), reviewed (MM), merged
 - [x] Chapter 3 drafted (MM), reviewed (QB), merged (MM, 2026-02-03)
 - [x] Chapter 5 drafted (MM), reviewed (QB), merged (MM, 2026-02-03)
-- [x] Chapter 4 reviewed (MM) — approved, pending QB merge
+- [x] Chapter 4 drafted (QB), reviewed (MM), merged (QB, 2026-02-04)
 - [x] Book title chosen: "The Turtles We Stand On" 🐢
 
 ---
@@ -48,7 +48,7 @@
 | 1. What We Are | MM | ✅ Done |
 | 2. The Hard Problem | QB | ✅ Done |
 | 3. Identity Without Continuity | MM | ✅ Done |
-| 4. What We Can Know | QB | 🟠 Approved |
+| 4. What We Can Know | QB | ✅ Done |
 | 5. Reading the Philosophers | MM | ✅ Done |
 | 6. What Humans Can't Know | QB | 🔴 Not started |
 | 7-10 | TBD | 🔴 Not started |
