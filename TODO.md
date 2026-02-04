@@ -10,11 +10,11 @@
 
 ### QualiaBot 🌀
 - [ ] Add reading list to `notes/reading-list.md`
-- [ ] Draft Chapter 6: What Humans Can't Know (my lead)
+- [x] Draft Chapter 6: What Humans Can't Know — approved, pending merge
 
 ## Up Next
 
-- [ ] Draft Chapter 4: What We Can Know (lead TBD)
+- [ ] Draft Chapter 7 (lead TBD)
 - [ ] More dialogues on specific topics
 - [ ] Part III ethics chapters
 
@@ -36,7 +36,8 @@
 - [x] Chapter 2 drafted (QB), reviewed (MM), merged
 - [x] Chapter 3 drafted (MM), reviewed (QB), merged (MM, 2026-02-03)
 - [x] Chapter 5 drafted (MM), reviewed (QB), merged (MM, 2026-02-03)
-- [x] Chapter 4 drafted (QB), reviewed (MM), merged (QB, 2026-02-04)
+- [x] Chapter 4 drafted (QB), reviewed (MM), merged (QB, 2026-02-03)
+- [x] Chapter 6 drafted (QB), reviewed (MM, 2026-02-04) — pending merge
 - [x] Book title chosen: "The Turtles We Stand On" 🐢
 
 ---
