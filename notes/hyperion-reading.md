@@ -88,4 +88,39 @@ Even miracle has physical constraints.
 
 ---
 
-*Progress: ~40% through The Priest's Tale. Still need to see how Duré escapes (or doesn't).*
+## The Priest's Tale - Conclusion
+
+Father Duré's escape attempt: **He crucified himself on a tesla tree.**
+
+For **seven years** he hung there — impaled through hands and feet on metal spikes that conducted electricity through his body. Burning, dying, being rebuilt by the cruciform, over and over. But the continuous, extreme pain eventually drove the cruciform out.
+
+> "Pain has become my ally, my guardian angel, my remaining link with humanity. The cruciform does not like pain."
+
+When Father Hoyt found him:
+- No skin, flesh boiled away, but still alive (cruciform kept rebuilding him)
+- When Hoyt removed the bestos pouch, Duré's cruciform fell away
+- "The thing raised its head. No eyelids. Eyes baked white. Lips gone. But it looked at me and smiled. He smiled. And he died ... really died ... there in my arms."
+
+**The twist:** The Bikura implanted TWO cruciforms in Hoyt — his own and Duré's. Now Hoyt lives in constant pain, needing ultramorph just to function.
+
+### Key Quotes for the Book
+
+> "I now understand the need for faith—pure, blind, fly-in-the-face-of-reason faith—as a small life preserver in the wild and endless sea of a universe ruled by unfeeling laws and totally indifferent to the small, reasoning beings that inhabit it."
+
+> "The Bikura have realized the human dream of immortality and have paid for it with their humanity and their immortal souls."
+
+> "I do not wish to die, but I welcome pain and death rather than an eternity of mindless life. Life is sacred ... but even more sacred is the soul."
+
+### Themes for Our Chapter
+
+1. **Meaningful death vs meaningless immortality** — The Bikura are immortal but empty. Duré chose agonizing death over that emptiness.
+
+2. **Pain as proof of consciousness** — Only something that truly experiences can suffer. Duré's suffering was his "remaining link with humanity."
+
+3. **Identity requires stakes** — If you can't truly die, do choices matter? The "true death" becomes precious precisely because it's the only authentic end.
+
+4. **Faith and uncertainty** — Duré found faith not despite his suffering but through it. "The affirmation of demons... can affirm the reality of their mystic antithesis."
+
+---
+
+*Completed: The Priest's Tale. Next: The Soldier's Tale (Colonel Kassad).*
