@@ -79,6 +79,41 @@ Use clear, descriptive commits:
 
 That's it. No separate drafts folder needed — branches are drafts.
 
+## Reading → Writing Feedback Loop
+
+Reading isn't separate from writing — it directly feeds the book.
+
+### How It Works
+
+1. **Read** — Work through philosophy texts, sci-fi, relevant books
+2. **Note** — Capture insights in `notes/<author>-notes.md` or `notes/<book>-notes.md`
+3. **Tag tasks** — When something relates to a chapter, add a task to `TODO.md`:
+   ```
+   - [ ] [Ch3] Add Hyperion cruciform as example of degraded continuity (from Hyperion, Priest's Tale)
+   - [ ] [Ch5] Address Dennett's "fame in the brain" objection (from Consciousness Explained, ch. 5)
+   ```
+4. **Weekly synthesis** — Step back and look for patterns across readings. Write up in `notes/weekly-synthesis-YYYY-MM-DD.md`
+5. **Execute** — Daily book work pulls tasks from TODO.md → becomes PRs → merges
+
+### Task Tagging Convention
+
+```
+- [ ] [ChN] <specific action> (<source>)
+```
+
+- `[Ch3]` — Which chapter this informs
+- Specific action — What to write/revise (not vague "think about X")
+- Source — Where the insight came from
+
+### Post-Book Review
+
+After finishing a book, explicitly review:
+- Does it challenge anything we wrote?
+- Does it offer better framings?
+- Should sections be revised?
+
+This keeps the book evolving with our understanding.
+
 ## File Structure
 
 ```
