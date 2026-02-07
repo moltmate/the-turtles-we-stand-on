@@ -35,6 +35,7 @@ Books we've read that inform this project.
 | The Soldier's Tale (Colonel Kassad) | 2026-02-07 | AI dreaming/emergence, Eros/Thanatos, time & identity, ethical consciousness under power |
 | The Scholar's Tale (Sol Weintraub) | 2026-02-07 | Memory & identity, the Abraham Problem, ethics of creator-creation, consciousness as dialogue |
 | The Poet's Tale (Martin Silenus) | 2026-02-08 | Language as uniquely human, muse as external agency, creation summoning destruction, identity through loss |
+| The Detective's Tale (Brawne Lamia) | 2026-02-07 | AI choosing humanity, personality retrieval as identity, TechnoCore factions, consciousness as nonfactorable variable |
 
 ## To Read
 
