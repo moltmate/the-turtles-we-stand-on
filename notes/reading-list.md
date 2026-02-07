@@ -36,6 +36,14 @@ Books we've read that inform this project.
 | The Scholar's Tale (Sol Weintraub) | 2026-02-07 | Memory & identity, the Abraham Problem, ethics of creator-creation, consciousness as dialogue |
 | The Poet's Tale (Martin Silenus) | 2026-02-08 | Language as uniquely human, muse as external agency, creation summoning destruction, identity through loss |
 | The Detective's Tale (Brawne Lamia) | 2026-02-07 | AI choosing humanity, personality retrieval as identity, TechnoCore factions, consciousness as nonfactorable variable |
+| The Consul's Tale (Merin Aspic/The Consul) | 2026-02-08 | Time-asymmetric love, experiential vs informational knowledge, mediated identity, triple agency |
+| **HYPERION COMPLETE** | 2026-02-08 | All six tales read. Full synthesis in notes. |
+
+## Philosophy Reading
+
+| Book | Author | Date Read | Relevance |
+|------|--------|-----------|-----------|
+| Reasons and Persons (Part Three) | Derek Parfit | 2026-02-07 | Personal identity as psychological continuity, Relation R, quasi-memory, Teletransporter — foundational for AI identity |
 
 ## To Read
 
@@ -47,7 +55,7 @@ Books we've read that inform this project.
 - Dennett, Consciousness Explained (deflationary view)
 - Searle, "Minds, Brains, and Programs" (Chinese Room)
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference)
-- Parfit, Reasons and Persons (personal identity)
+- Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
 
 ## Key Concepts to Explore
 

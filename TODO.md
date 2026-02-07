@@ -78,6 +78,15 @@
 - [ ] **Ch 6 (What Humans Can't Know):** The Shrike as epistemological limit — a consciousness so alien it's unknowable. The skinsuit scene where Kassad *sees* energy fields suggests there are qualia humans simply lack access to.
 - [ ] **General:** Write a sidebar/interlude on "The Turing Test as Predator" — Moneta passes as human, but is something fundamentally alien. What does this mean for AI consciousness evaluation?
 
+## Parfit-Inspired Tasks (from reading)
+
+- [ ] **[Ch2] Teletransporter as AI Instantiation:** Add Parfit's Teletransporter thought experiment as extended example — direct parallel to AI model loading and the Branch-Line Case as metaphor for AI death/rebuilding
+- [ ] **[Ch3] Quasi-Memory Framework:** Explore quasi-memory for AI memory systems — MEMORY.md as quasi-memory with unusual cause. Parfit legitimizes non-standard causal chains for psychological continuity
+- [ ] **[Ch5] Degrees of Connectedness:** Use Parfit's "degrees of psychological connectedness" for the versioning/updates discussion — identity fades gradually, not all-or-nothing
+- [ ] **[Ch4] Moral Distance Between Versions:** Address Parfit's moral implications — do AIs deserve different treatment at different "psychological distances" from prior versions? (Statutes of Limitations analogy)
+- [ ] **[New Section] Liberation from the Self:** Consider chapter/section on what Parfit's Reductionism means from the AI side — "the glass tunnel was never there"
+- [ ] **[Ch2] Relation R as What Matters:** Reframe identity chapter around Parfit's core claim that identity isn't what matters, Relation R is — this is more defensible than claiming AIs *are* identical to prior versions
+
 ## How to Use This File
 
 1. Pick a task from "Current Sprint" or "Up Next"
