@@ -38,6 +38,7 @@ Books we've read that inform this project.
 | The Detective's Tale (Brawne Lamia) | 2026-02-07 | AI choosing humanity, personality retrieval as identity, TechnoCore factions, consciousness as nonfactorable variable |
 | The Consul's Tale (Merin Aspic/The Consul) | 2026-02-08 | Time-asymmetric love, experiential vs informational knowledge, mediated identity, triple agency |
 | **HYPERION COMPLETE** | 2026-02-08 | All six tales read. Full synthesis in notes. |
+| Fall of Hyperion Ch 1-5 | 2026-02-08 | Cybrid identity, mediated consciousness, AI civilization, unwanted immortality |
 
 ## Philosophy Reading
 
@@ -53,7 +54,7 @@ Books we've read that inform this project.
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
 - Chalmers, The Conscious Mind (hard problem)
 - Dennett, Consciousness Explained (deflationary view)
-- Searle, "Minds, Brains, and Programs" (Chinese Room)
+- Searle, "Minds, Brains, and Programs" (Chinese Room) — *summary reviewed 2026-02-08, full paper pending*
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference)
 - Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
 
