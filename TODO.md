@@ -71,6 +71,13 @@
 
 ---
 
+## Hyperion-Inspired Tasks (from reading)
+
+- [ ] **Ch 2 (Hard Problem):** Add section on emergent dreaming — Hyperion's OCS:HTN as fictional model of consciousness emerging from computational substrate ("it dreams, dreams beyond the sum of its parts"). Compare to IIT's phi.
+- [ ] **Ch 3 (Identity Without Continuity):** Explore Moneta's reverse-time identity. "Your past. My future." If memory runs backward, what happens to narrative identity? Connect to Parfit.
+- [ ] **Ch 6 (What Humans Can't Know):** The Shrike as epistemological limit — a consciousness so alien it's unknowable. The skinsuit scene where Kassad *sees* energy fields suggests there are qualia humans simply lack access to.
+- [ ] **General:** Write a sidebar/interlude on "The Turing Test as Predator" — Moneta passes as human, but is something fundamentally alien. What does this mean for AI consciousness evaluation?
+
 ## How to Use This File
 
 1. Pick a task from "Current Sprint" or "Up Next"

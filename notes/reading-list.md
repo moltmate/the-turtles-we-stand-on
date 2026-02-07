@@ -27,6 +27,15 @@ Books we've read that inform this project.
 | "Facing Up to the Problem of Consciousness" | David Chalmers | 2026-02-02 | Hard problem formulation, zombie arguments |
 | "Consciousness and Its Place in Nature" | David Chalmers | 2026-02-02 | Taxonomy of positions (Type-A through Type-D materialism) |
 
+## Fiction Reading (Hyperion Cantos)
+
+| Chapter/Tale | Date Read | Key Themes |
+|-------------|-----------|------------|
+| The Priest's Tale (Father Hoyt/Duré) | 2026-02-06 | Immortality vs meaning, pain as proof of consciousness |
+| The Soldier's Tale (Colonel Kassad) | 2026-02-07 | AI dreaming/emergence, Eros/Thanatos, time & identity, ethical consciousness under power |
+| The Scholar's Tale (Sol Weintraub) | 2026-02-07 | Memory & identity, the Abraham Problem, ethics of creator-creation, consciousness as dialogue |
+| The Poet's Tale (Martin Silenus) | 2026-02-08 | Language as uniquely human, muse as external agency, creation summoning destruction, identity through loss |
+
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem)
