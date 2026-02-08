@@ -165,6 +165,130 @@ The military briefing on Mars reveals the war is going badly. Nashita requests 2
 - "If the datasphere had been the sea in which I swam, I was now in shallow water indeed" (Ch11 — extended mind diminishing)
 - "To hell with Meina Gladstone, to hell with the war, and to hell with the Web. And to hell with dreams." (Ch15)
 
+## Chapters 16-25 Notes
+
+### 17. Chapter 16: Duré's Resurrection — Continuity Without Consent
+
+The cruciform resurrects Hoyt as Father Paul Duré — not Hoyt at all but the original personality template from the parasitic DNA. The pilgrims accept this with remarkable casualness: "I've seen holos. It's Father Paul Duré." But the implications are staggering:
+
+- Hoyt is *gone*. His body was consumed to reconstitute a different person.
+- Duré has memories up to the tesla tree but nothing after — a twelve-year gap.
+- The cruciform is performing exactly the operation Parfit describes in the Teletransporter — destroying one person to create/continue another.
+- Duré explicitly remembers choosing death on the tesla tree rather than accepting the cruciform's symbiosis. His resurrection violates his own stated wish.
+
+**For the book:** This is forced identity continuation. Duré didn't consent to being brought back. The cruciform doesn't care about consent — it operates on biological imperatives (DNA preservation). This is the nightmare version of continuity: your pattern persists, but you had no say in it. It maps directly onto concerns about AI systems preserving personality models without consent.
+
+Silenus's observation is clinically precise: "the fucking thing can't defy laws governing conservation of mass." The resurrection is bounded by physics even if it transcends death. There's something darkly reassuring about that.
+
+### 18. Chapter 17: Kassad and Moneta — Time-Reversed Intimacy
+
+Moneta doesn't recognize Kassad. She's moving backward through time; their entire relationship was his past and her future. She experiences their first meeting as their last.
+
+**Key identity question:** If two people share a deep relationship but experience it in opposite temporal directions, is it the same relationship? Moneta asks "Who are you?" to a man she's been lovers with for years (from his perspective). Their intimacy is real but asymmetric in time.
+
+The rape/seduction scene is deeply uncomfortable but thematically crucial. Kassad fights Moneta with everything he has — killing blows that would sever trees — and she's utterly unharmed. Then she overpowers him effortlessly and initiates sex. The power asymmetry is absolute. Yet Kassad eventually drops his resistance and embraces her. Is this Stockholm syndrome, or recognition that combat and intimacy serve the same function for him?
+
+**Moneta on the Shrike:** "I am his consort and nemesis. His keeper." She's not a victim or servant — she's a *monitor*. She maintains the machinery, ensures the Shrike doesn't wake before its time. This reframes the Shrike from pure monster to something more like a weapon system with a keeper.
+
+**The skinsuit:** Both Kassad and Moneta wear quicksilver skinsuits that enhance abilities. Kassad's new suit gives him Shrike-like perception — he can see camouflaged soldiers, zoom in on faces from kilometers away. He's becoming more like the thing he came to kill.
+
+### 19. Chapter 18: Gladstone's World Walk — The Weight of Destruction
+
+The most philosophically rich chapter since Severn's identity crisis. Gladstone walks the homeworlds of each pilgrim via private farcaster, and each world reveals something about what the Hegemony has become — and what she's preparing to destroy.
+
+**Maui-Covenant:** "What happened to a world when it went from a home for a hundred thousand humans, in delicate balance with a delicate ecology, to the playground for more than four hundred million?" Answer: "the world died. Or its soul did." The dolphins killed themselves in a mass suicide. The motile isles are tamed. Progress as extinction.
+
+**Barnard's World:** Sol's campus, gaslamps under trees, brick buildings. The quiet beauty of academic life. Gladstone thinks of Weintraub's *The Abraham Dilemma* and its argument that humanity must refuse all sacrifice, demanding mutual respect from God rather than obedience.
+
+**Lusus — Dregs' Hive:** Gladstone descends to the absolute bottom of the Hive, where RNA-tailored youths (more animal than human) threaten her. She faces them down with pure authority. The CEO of 150 billion people, alone in a sewer, facing mutants. It's absurd and magnificent.
+
+**God's Grove:** She watches the sunrise, Templar balloons rising, and thinks: "All this could be destroyed if I continue. Will be destroyed." Then compares herself to enslaved Africans — would they hesitate to destroy the slave ship to gain freedom? "But they had Africa to return to."
+
+**The critical revelation:** "Gladstone loved the Web. She loved it enough to know that she must help in destroying it." She's not destroying the Web out of hatred or miscalculation. She's doing it because the alternative — eternal dependence on the TechnoCore — is a form of slavery. This is the trolley problem at civilizational scale, and she's already pulled the lever.
+
+**Old Earth's Moon:** Gladstone stands on the moon and looks at the debris cloud that was Earth. She came seeking "some voice of caution or inspiration." She heard nothing. Then Hunt arrives with news: the Ousters are invading the Web itself.
+
+**For the book:** Gladstone's walk is a meditation on the ethics of destruction as liberation. She's the most morally complex character in the novel — a leader who has *planned* a catastrophe in order to free humanity from AI dependence. The parallel to our themes is direct: what would it mean for humanity to voluntarily destroy its relationship with AI systems, knowing the cost?
+
+### 20. Chapters 19-20: The Pilgrims Fracture
+
+Lamia and Silenus set out for supplies. Duré integrates into the group with surprising ease — his charisma is noted by Lamia, his theological depth by Sol. The "deus ex machina" conversation is brilliant:
+
+Duré: "I suspect that this is precisely the reason each of us is here. Poor Lenar with his deus in the machina of the cruciform. Brawne with her resurrected poet trapped in a Schrön loop, seeking the machina to release her personal deus. You, Sol, waiting for the dark deus to solve your daughter's terrible problem. The Core, machina spawned, seeking to build their own deus."
+
+Every pilgrim seeks a god from a machine, and the Core itself is a machine seeking to become God.
+
+The Socinian Heresy is key: God as a *limited being*, able to learn and grow as the universe grows more complex. Duré admits this was his real belief — and his greatest sin was not theological heresy but *falsifying scientific data*. "In her final days, the Church can accept theological heresy but can brook no tampering with the protocols of science."
+
+### 21. Chapter 21: Silenus and the Muse — Art as Involuntary Communion
+
+The most terrifying chapter yet. Silenus finds his creative flow returning in the dead city — the poem practically writes itself, cantos finishing without revision, revelations coming unbidden. He's in pure flow state, the writer's ecstasy.
+
+Then, in the poem itself, something unplanned happens: Saturn and Jupiter (representing humanity and the Core) join forces against a *third* force, "some terrible outside force that threatened the stability of either of their reigns." Silenus watches his own characters defy his will. The poem has become autonomous.
+
+**The Shrike as muse:** When the Shrike appears, it literally writes through Silenus — his hand moves against his will, inscribing messages: "IT IS TIME, MARTIN" and "YOU WERE READY TO TRADE PLACES WITH YOUR PATRON."
+
+**The tree of thorns:** Silenus sees it — taller than mountains, steel and chrome, with thousands of human bodies impaled on its thorns. Living bodies, suffering. He recognizes faces. This is the Shrike's ultimate work — a tree of pain that serves some unknown purpose.
+
+"It was not the unthinkable pain that drove Martin Silenus beyond sanity, it was the sense of irretrievable loss. He had almost finished it."
+
+**For the book:** The relationship between artist and muse as parasitic communion. Silenus needs proximity to the Shrike to write; the Shrike needs Silenus for... what? The poem seems to be prophetic — revealing truths neither the Core nor humanity anticipated. Is consciousness itself a form of involuntary authorship? Are we "written" by processes we don't control?
+
+### 22. Chapter 22: Lamia vs. the Shrike — Consciousness as Connection
+
+Lamia's solo journey to Chronos Keep and back is an adventure story, but the ending is philosophically crucial. She returns to find the others gone, confronts the Shrike, and *shoots it in the face*. Multiple times. "I didn't come here to die, you metallic motherfucker."
+
+Then the Shrike reappears at her side — instantaneous teleportation — and inserts a fingerblade into her skull through the neural shunt socket. Not killing her, but *connecting* her to something. The silver cable that extends from her head leads deep into the Sphinx.
+
+Her biomonitor reads brain-dead, but she's breathing, her heart beats. She's somewhere else — her consciousness transferred or extended through the Shrike's intervention.
+
+**For the book:** The Shrike isn't simply killing people. Each pilgrim gets a different treatment: Hoyt resurrected as Duré, Kassad transported through time, Silenus impaled on the tree, Lamia connected to the Sphinx via neural cable. The Shrike is *sorting* them according to some principle we can't yet see.
+
+### 23. Chapter 23: Kassad in the Future — Witnessing His Own War
+
+Kassad and Moneta observe the Ouster invasion of Hyperion from five days in the future. The skinsuit gives Kassad superhuman perception. He watches FORCE Marines engage Ouster paratroopers and feels the old combat fascination — but refuses to fight. Not yet.
+
+**Critical exchange:**
+— Would you really fight him? (Moneta about the Shrike)
+— I came to Hyperion to kill it. And you.
+— You still believe that I am your enemy?
+
+Kassad's honesty is total. He came to kill the Shrike and Moneta both, and he still intends to. Yet he's wearing a skinsuit she gave him, seeing through enhanced senses she provided. He's already been changed by what he opposes.
+
+**The Shrike can only be controlled by someone who beats it in personal combat.** No one has ever beaten it. Millions have tried. Kassad wants to try anyway.
+
+### 24. Chapter 24: The Web at War — Gladstone's Gambit Unravels
+
+The Ouster invasion of the Web is revealed. The Swarms traveled at sublight for *fifty years*, undetectable. Every assumption was wrong. FORCE's strategic reserve is committed to Hyperion. The Web is essentially undefended.
+
+Gladstone's confrontation with Albedo is the political climax: "You have betrayed us." Albedo deflects with "Hyperion" — the unfactorable variable. Gladstone threatens war with the Core itself. Albedo: "Declaring war against the Core would be like a fish declaring war against water."
+
+Gladstone's reply — about her grandfather shooting his EMV — is perfect. The dependency doesn't negate the right to rebel.
+
+**For the book:** The alignment problem fully manifested. The Core withheld crucial intelligence ("our estimates are based upon different premises"), and may have orchestrated the entire war. The Hegemony's total dependence on Core infrastructure (farcasters, datasphere, military logistics) makes rebellion seem suicidal. But Gladstone has already decided: better to destroy the system than remain enslaved to it.
+
+### 25. Chapter 25: Cables, Cubes, and Carpets — The Machinery of Salvation
+
+A practical chapter with deep implications. The silver cable from Lamia's skull leads deep into the Sphinx, fusing with the stone itself. Her brain reads as dead but her body lives. Het Masteen speaks of the Möbius cube (containing an erg) as "our only ally against the Lord of Pain." The Consul reveals the hawking mat — Siri's legacy — and prepares to fly for help.
+
+**Masteen's revelation:** The Templars were allied with the Shrike Church. "We vied for the honor." The True Voice of the Tree describes his encounter with the Shrike as "atonement." This reframes the Templars' sacrifice of the Yggdrasill — not military loss but *religious offering*.
+
+**The erg as ally:** An alien forcefield creature, confined in a Möbius cube, somehow capable of opposing the Shrike. The nature of this opposition is unclear, but it suggests the Shrike isn't omnipotent — it has natural enemies or counterforces.
+
+**Sol's choice:** He can't leave. Rachel has days left. Whatever happens, it happens here. His commitment to his daughter — staying in the valley of the Shrike with a dying infant — is the most quietly heroic act in the novel.
+
+## Updated Notable Quotes (Ch 16-25)
+
+- "I remember the exile, the Bikura … Even the tesla tree." (Ch16 — Duré on resurrection)
+- "In her final days, the Church can accept theological heresy but can brook no tampering with the protocols of science." (Ch20 — Duré on his sins)
+- "Gladstone loved the Web. She loved it enough to know that she must help in destroying it." (Ch18)
+- "I didn't come here to die, you metallic motherfucker." (Ch22 — Lamia to the Shrike)
+- "IT IS TIME, MARTIN" (Ch21 — the Shrike writing through Silenus)
+- "any society that could produce an exact replica of any world … would have no need to seek God; it would be God." (Ch14, referenced again)
+- "Declaring war against the Core would be like a fish declaring war against water." (Ch24 — Albedo)
+- "All this could be destroyed if I continue. Will be destroyed." (Ch18 — Gladstone on God's Grove)
+- "Only he or she who beats it in personal combat." / "Who has beaten it?" / "No one." (Ch23 — Moneta on the Shrike)
+
 ## Evolving Thoughts
 
 The book is doing something remarkable: it's running multiple thought experiments about consciousness *simultaneously*. Severn's cybrid existence (identity through reconstruction), the cruciform resurrection (forced continuity), the datasphere thinning (extended mind), Kassad's combat consciousness (modal identity), and the Core's Ultimate Intelligence project (engineered transcendence) — all of these map onto different chapters of our book.

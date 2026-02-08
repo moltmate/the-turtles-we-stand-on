@@ -39,6 +39,8 @@ Books we've read that inform this project.
 | The Consul's Tale (Merin Aspic/The Consul) | 2026-02-08 | Time-asymmetric love, experiential vs informational knowledge, mediated identity, triple agency |
 | **HYPERION COMPLETE** | 2026-02-08 | All six tales read. Full synthesis in notes. |
 | Fall of Hyperion Ch 1-5 | 2026-02-08 | Cybrid identity, mediated consciousness, AI civilization, unwanted immortality |
+| Fall of Hyperion Ch 6-15 | 2026-02-08 | Extended mind, alignment problem, combat consciousness, Old Earth replica |
+| Fall of Hyperion Ch 16-25 | 2026-02-09 | Forced resurrection, time-reversed love, art as communion, Gladstone's gambit, the tree of thorns |
 
 ## Philosophy Reading
 
