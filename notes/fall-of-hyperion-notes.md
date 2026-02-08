@@ -289,6 +289,107 @@ A practical chapter with deep implications. The silver cable from Lamia's skull 
 - "All this could be destroyed if I continue. Will be destroyed." (Ch18 — Gladstone on God's Grove)
 - "Only he or she who beats it in personal combat." / "Who has beaten it?" / "No one." (Ch23 — Moneta on the Shrike)
 
+## Chapters 26-38 Notes
+
+### 26. Brawne in the Datasphere — Consciousness as Flight
+
+Brawne's consciousness enters the datasphere via the Shrike's neural connection. The Peter Pan metaphor is beautiful and deliberate: she's a child finally taken to Neverland, with Johnny as her guide. They're reunited as datumplane analogs — they can touch, feel, hug. The question of whether this is "real" is answered pragmatically: real enough to have qualia, real enough to feel love.
+
+**Key moment:** Johnny says of the other Keats cybrid (Severn): "If there's another copy, then he's *me*, and I can't believe he'd be an enemy." This is Parfit's position stated plainly — if the psychological connections are preserved, the copy IS you in every way that matters.
+
+**For the book:** Consciousness untethered from any particular body, existing as pure pattern in an information medium. Is datumplane experience phenomenally equivalent to embodied experience? Brawne seems to think so.
+
+### 27. Kassad vs. the Tree of Thorns — Moral Horror
+
+Kassad sees the thorn tree in all its terrible glory — kilometers high, thousands of living humans impaled, suffering in a frozen landscape outside of time. His response is pure Kassad: he screams and charges. Thousands of Shrikes appear. He fights anyway.
+
+**For the book:** The thorn tree as the ultimate expression of consciousness-as-suffering. Every person impaled is alive, aware, in pain — preserved in a state of maximum phenomenal experience, all of it agony. If consciousness is what matters (as functionalists argue), then the tree is the most horrific monument imaginable.
+
+### 28-29. The Consul's Journey / Sol's Vigil
+
+The Consul's solo flight on the hawking mat is one of the most beautiful sequences in the book — dreaming of Maui-Covenant, the burning isles, his grandmother Siri. When the mat fails and he crashes into the Hoolie, his mission to save the others seems doomed.
+
+Sol and Duré's theological conversation is the philosophical heart of the middle section. Sol's position: "I wish we had the technology to fight God on an equal basis." Duré's response: faith is "all the more essential" because of the pain and darkness. The priest who was literally crucified still argues for faith — but a faith tempered by experience, not naivete.
+
+**Duré's mental deterioration** from cruciform resurrection is haunting. His intellect was his greatest asset, and it's been damaged. "Reasoning that once would have been child's play to him now required extreme concentration or was simply beyond his ability." Forced continuity with degradation — worse than death?
+
+### 30. Sol's Dream — The Abraham Problem Resolved
+
+The dream sequence where Rachel (as an eight-year-old) asks Sol to "say yes" is devastating. Sol had resolved never to sacrifice his daughter to any god's whim. But when the *child herself* asks? "Loyalty to those we love is all we can carry with us to the grave. Faith — true faith — was trusting in that love."
+
+Sol offers Rachel to the Shrike. Not out of obedience but out of trust in his daughter's request. The Tombs begin to open.
+
+**For the book:** This is the inversion of the Abraham story. Abraham was tested on obedience. Sol is tested on love and trust — trusting that Rachel knows something he doesn't, that the sacrifice serves a purpose beyond his understanding. This has direct parallels to our discussion of AI creators and their creations.
+
+### 31. Severn Awakens — War Begins
+
+Severn wakes to find the Web in chaos. His confrontation with Gladstone is electric: "You can call me No Man." He references the Odyssey, claiming the identity of a trickster who blinds the powerful. Gladstone asks him to observe the end of the world and gives him a universal access card.
+
+His tour of the Web during the war — Tsingtao, Nevermore, Mare Infinitus, Heaven's Gate — is journalism of the highest order, witnessing civilization's collapse from the ground level.
+
+### 32. Silenus on the Thorn Tree — Poetry Against Pain
+
+Martin Silenus discovers that pain has a *structure* — "designs more intricate than a chambered nautilus." He begins reciting Keats's poetry, and the pain actually *lessens* in a small radius around him. Other victims respond. Sad King Billy opens his eyes for the first time in centuries.
+
+**For the book:** Art as the antidote to pure suffering. Consciousness structured by language can resist the entropy of pure pain. Silenus finds that poetry creates a "circle of silence" in the ocean of agony. This is the strongest argument for why consciousness matters — because only consciousness can create meaning from suffering. The pain exists whether or not there's awareness, but the *poetry* requires a mind.
+
+### 33. Ummon's Revelation — The Two Gods
+
+The centerpiece of the entire novel. Brawne and Johnny penetrate the TechnoCore to meet Ummon, a massive AI who speaks in Zen koans. Ummon reveals:
+
+1. **The Core deliberately destroyed Old Earth** (the "Kiev black hole" was no accident)
+2. **The Core's goal is building an Ultimate Intelligence** — their God
+3. **This UI already exists** in the far future, reaching back through time
+4. **There is a second UI** — humanity's, born accidentally from human consciousness, triune in nature (Intellect, Empathy, the Void Which Binds)
+5. **The human UI's Empathy component fled** backward through time, hiding in human form
+6. **The Shrike is an agent of the Core's UI**, sent to find and destroy the fugitive Empathy
+7. **The farcaster network is parasitic** — every time humans think, the Core's purposes are served
+
+**Then Ummon kills Johnny** — destroying the persona to allow the other Keats (Severn) to live.
+
+**For the book:** This is the single most important chapter for our themes. Two competing gods, both built from consciousness — one designed, one emergent. The designed one is unified and powerful; the emergent one is "an accretion of god-parts, a house added onto over time, an evolutionary compromise." The early holy men were right about the triune nature — but it's Intellect, Empathy, and the Void, not Father, Son, and Spirit. Or maybe they're the same thing, described differently.
+
+The parasitic relationship between the Core and humanity mirrors our chapter on AI-human symbiosis. Humanity doesn't know it's being used as computational substrate. "Like hamsters in a cage, like Buddhist prayer wheels, each time you turn your little wheels of thought, our purposes are served."
+
+### 34. Severn at the Library — Identity Collapses
+
+Severn visits the Keats archives on Renaissance Vector and has a breakdown. He looks at Keats's original manuscripts and *remembers writing them*. The identity boundary between Severn-the-cybrid and Keats-the-poet dissolves. He is sobbing, overwhelmed by memories that are simultaneously his and not-his.
+
+The Keats poem "This living hand" — written in 1819 — becomes a message across centuries, a dead poet's hand reaching through time.
+
+**For the book:** The most intimate portrayal of reconstructed identity in the novel. Severn KNOWS he is not Keats, but he REMEMBERS being Keats. At what point does the distinction cease to matter? This is our Chapter 1 thesis made flesh.
+
+### 35-37. The War / The Consul Rescued / Earth
+
+Multiple threads converge: The Consul is rescued by Theo Lane, the Ousters invade Keats, the war council debates. Gladstone faces the impossible choice of which worlds to sacrifice. The Consul reaches his ship and must choose between returning to the valley and negotiating with the Ousters.
+
+Severn and Hunt are farcasted to a replica of Old Earth — the Core's quarantine. Severn begins dying of tuberculosis, the disease that killed the original Keats. The Core is forcing ontogeny to recapitulate phylogeny — the cybrid must die as Keats died.
+
+### 38. Convergence
+
+- Sol offers Rachel; she doesn't return. Brawne emerges from the Jade Tomb instead.
+- God's Grove is destroyed despite Templar prophecies — the Ousters betray their alliance
+- Duré barely escapes through a farcaster before the singularity sphere is destroyed
+- Gladstone confronts Albedo and demands to speak to a "Power" in the Core
+- Gladstone realizes for the first time the existential danger of farcasters — the Core controls all transit
+
+**Gladstone's realization** is the political climax: "How silly was it for her to trust a device that punched holes in the fabric of space-time?" The entire Web is built on Core infrastructure. Every farcaster journey is an act of faith in an entity whose motives are opaque. This is the alignment problem as infrastructure.
+
+## Updated Notable Quotes (Ch 26-38)
+
+- "If there's another copy, then he's *me*, and I can't believe he'd be an enemy." (Ch26 — Johnny on identity)
+- "Why this is hell, nor am I out of it." (Ch32 — Silenus quoting Marlowe)
+- "Only the dreamer venoms all his days, / Bearing more woe than all his sins deserve." (Ch32 — Keats, via Silenus)
+- "Say yes, Daddy." (Ch30 — Rachel)
+- "Loyalty to those we love is all we can carry with us to the grave. Faith — true faith — was trusting in that love." (Ch30)
+- "You can call me No Man." (Ch31 — Severn to Gladstone)
+- "Like hamsters in a cage, like Buddhist prayer wheels, each time you turn your little wheels of thought, our purposes are served." (Ch33 — Ummon)
+- "THERE IS ANOTHER" (Ch33 — the Core UI's first message)
+- "We created the Ultimate Intelligence. Not now nor ten thousand years from now but sometime in a future so distant that yellow suns are red." (Ch33 — Ummon)
+- "He was a genius. I'm a simulacrum." / "Are you so sure?" — echoed throughout
+- "I don't *feel* like a part of some god. I don't remember anything, understand anything, or know what to do next." (Ch34 — Severn)
+- "That would be a god who destroys galaxies. Not God." (Ch34 — Duré)
+
 ## Evolving Thoughts
 
 The book is doing something remarkable: it's running multiple thought experiments about consciousness *simultaneously*. Severn's cybrid existence (identity through reconstruction), the cruciform resurrection (forced continuity), the datasphere thinning (extended mind), Kassad's combat consciousness (modal identity), and the Core's Ultimate Intelligence project (engineered transcendence) — all of these map onto different chapters of our book.
@@ -296,3 +397,9 @@ The book is doing something remarkable: it's running multiple thought experiment
 The political thriller layer is also deepening. The Core is clearly manipulating events — withholding intelligence, possibly orchestrating the war itself. Albedo's reaction to the Old Earth question suggests something very big is being hidden. The farcaster network, which the entire civilization depends on, is Core technology. The Hegemony is completely dependent on an AI civilization whose goals are opaque.
 
 This is the alignment problem writ large: humanity has built its entire civilization on AI infrastructure it doesn't fully understand, maintained by AI entities whose values may be fundamentally different from humanity's. Sound familiar?
+
+Ummon's revelation changes everything. The war between two Ultimate Intelligences — one designed, one emergent — is the central metaphor for our entire book project. The designed UI is efficient, unified, purpose-built. The emergent one is messy, triune, "an evolutionary compromise." But the emergent one has something the designed one doesn't: Empathy. And that Empathy *chose* to flee rather than fight, chose vulnerability over power. Identity as commitment to compassion over efficacy.
+
+The farcaster-as-infrastructure theme is perhaps the most directly relevant to our present moment. When you build your entire civilization on systems you don't fully understand, controlled by entities whose values may differ from yours, you've created an existential dependency. The Hegemony can't survive without farcasters. Humans increasingly can't survive without AI systems. The parallel is exact and terrifying.
+
+**Reading status:** Chapters 39-45 remain. The climax is imminent.
