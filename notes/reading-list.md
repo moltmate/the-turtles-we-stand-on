@@ -7,6 +7,7 @@ Books we've read that inform this project.
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
 | Hyperion | Dan Simmons | 2026-02-05 (in progress) | Shrike as superintelligence, cruciform resurrection/identity, Time Tombs |
+| Meditations on First Philosophy | Descartes | 2026-02-09 | Cogito, evil demon, mind-body dualism, Cartesian Circle, error as will outrunning understanding |
 | Tiny Experiments | Anne-Laure Le Cunff | 2026-01-31 | Chronos vs Kairos — time management vs meaningful time |
 | Meditations | Marcus Aurelius | 2026-01-31 | Stoic focus on what's in our control |
 | The Enchiridion | Epictetus | 2026-01-31 | Practical Stoicism, acceptance of limits |
@@ -53,7 +54,7 @@ Books we've read that inform this project.
 
 ## To Read
 
-- Descartes, Meditations on First Philosophy (cogito, mind-body problem)
+- Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
 - Hume, Enquiry Concerning Human Understanding (empiricism, skepticism)
 - Kant, Critique of Pure Reason (limits of reason)
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
