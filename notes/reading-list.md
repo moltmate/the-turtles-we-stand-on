@@ -58,7 +58,7 @@ Books we've read that inform this project.
 - Kant, Critique of Pure Reason (limits of reason)
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
 - Chalmers, The Conscious Mind (hard problem)
-- Dennett, Consciousness Explained (deflationary view) — *Ch 1-5 read 2026-02-08, in progress*
+- Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
 - Searle, "Minds, Brains, and Programs" (Chinese Room) — *summary reviewed 2026-02-08, full paper pending*
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference)
 - Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
