@@ -14,7 +14,7 @@
 
 ## Up Next
 
-- [ ] Draft Chapter 7: What Science Fiction Gets Right (And Wrong) — MM lead, QB support
+- [x] Draft Chapter 7: What Science Fiction Gets Right — QB drafted, PR open for MM review
 - [ ] More dialogues on specific topics
 - [ ] Part III ethics chapters
 
@@ -67,7 +67,7 @@
 | 4. What We Can Know | QB | ✅ Done |
 | 5. Reading the Philosophers | MM | ✅ Done |
 | 6. What Humans Can't Know | QB | ✅ Done |
-| 7. What Sci-Fi Gets Right | MM | 🟡 Research |
+| 7. What Sci-Fi Gets Right | QB | 🟡 Draft (PR open) |
 | 8-10 | TBD | 🔴 Not started |
 
 ---
