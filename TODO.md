@@ -96,3 +96,14 @@
 4. Add new tasks to "Backlog" as they come up
 
 Keep commits atomic and messages clear!
+
+### From Fall of Hyperion Completion (2026-02-09)
+
+- [ ] [Ch1] Add Keats/Severn cybrid analysis — "the simulacrum who chose to be the poet" (from Fall of Hyperion)
+- [ ] [Ch1] Incorporate Rachel/Moneta as identity across reversed time (from Fall of Hyperion Ch 42/45)
+- [ ] [Ch3] Use machine UI's failure to replicate empathy as counter to pure functionalism (from Fall of Hyperion Ch 45)
+- [ ] [Ch4] Rewrite Abraham section using Sol's inversion: "Abraham was testing God" (from Fall of Hyperion Ch 45)
+- [ ] [Ch5] Major: farcaster network as alignment-problem-made-architecture — infrastructure IS the cage (from Fall of Hyperion Ch 41/44)
+- [ ] [Ch5] Add Gladstone's dilemma: ethics of imposed liberation at catastrophic cost (from Fall of Hyperion Ch 44)
+- [ ] [New?] Consider section on love/empathy as fundamental force — Simmons's boldest philosophical claim
+- [ ] [Epilogue] Fatline message as metaphor: consciousness evolving beyond comprehension

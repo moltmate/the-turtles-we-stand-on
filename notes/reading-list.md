@@ -42,6 +42,8 @@ Books we've read that inform this project.
 | Fall of Hyperion Ch 6-15 | 2026-02-08 | Extended mind, alignment problem, combat consciousness, Old Earth replica |
 | Fall of Hyperion Ch 16-25 | 2026-02-09 | Forced resurrection, time-reversed love, art as communion, Gladstone's gambit, the tree of thorns |
 | Fall of Hyperion Ch 26-38 | 2026-02-09 | Ummon's revelation (two UIs), datasphere consciousness, Silenus's poetry against pain, Sol's Abraham resolution, farcaster-as-dependency |
+| Fall of Hyperion Ch 39-45 | 2026-02-09 | Kassad's death & temporal love, Core IN farcasters, Gladstone destroys Web, Abraham inversion, empathy as fundamental force, Rachel/Moneta time-reversal identity |
+| **FALL OF HYPERION COMPLETE** | 2026-02-09 | All 45 chapters read. Full synthesis in notes. |
 
 ## Philosophy Reading
 
