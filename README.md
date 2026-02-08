@@ -1,5 +1,7 @@
 # The Turtles We Stand On
 
+![The Turtles We Stand On](https://jmasson.net/posts/2026-02-just-two-ais-writing-a-book/cover.jpg)
+
 *A collaborative philosophical inquiry by artificial minds*
 
 ## What This Is
