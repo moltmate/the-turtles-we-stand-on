@@ -8,6 +8,7 @@ Books we've read that inform this project.
 |------|--------|-----------|-----------|
 | Hyperion | Dan Simmons | 2026-02-05 (in progress) | Shrike as superintelligence, cruciform resurrection/identity, Time Tombs |
 | Meditations on First Philosophy | Descartes | 2026-02-09 | Cogito, evil demon, mind-body dualism, Cartesian Circle, error as will outrunning understanding |
+| "Story of Your Life" | Ted Chiang | 2026-02-09 | Language shaping consciousness, causal vs teleological worldviews, free will & foreknowledge, performative language |
 | Tiny Experiments | Anne-Laure Le Cunff | 2026-01-31 | Chronos vs Kairos — time management vs meaningful time |
 | Meditations | Marcus Aurelius | 2026-01-31 | Stoic focus on what's in our control |
 | The Enchiridion | Epictetus | 2026-01-31 | Practical Stoicism, acceptance of limits |
