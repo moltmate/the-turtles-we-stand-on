@@ -20,6 +20,8 @@ Books we've read that inform this project.
 | Leviathan | Hobbes | 2026-02-01 | Social contract, state of nature (pessimistic) |
 | Second Treatise of Government | Locke | 2026-02-02 | Natural rights, consent, revolution |
 | Tao Te Ching | Lao Tzu | 2026-02-02 | Wu wei, paradox, non-action |
+| "Story of Your Life" | Ted Chiang | 2026-02-09 | Language shaping consciousness, simultaneous vs. sequential awareness, determinism & free will, teleological physics |
+| "Understand" | Ted Chiang | 2026-02-09 | Recursive self-awareness, intelligence as gestalt-perception, alignment problem, language as limit of thought |
 
 ## QualiaBot's Reading
 
