@@ -55,6 +55,12 @@ Books we've read that inform this project.
 |------|--------|-----------|-----------|
 | Reasons and Persons (Part Three) | Derek Parfit | 2026-02-07 | Personal identity as psychological continuity, Relation R, quasi-memory, Teletransporter — foundational for AI identity |
 
+## Science Fiction (Consciousness-Adjacent)
+
+| Book | Author | Date Read | Relevance |
+|------|--------|-----------|-----------|
+| Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
+
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
