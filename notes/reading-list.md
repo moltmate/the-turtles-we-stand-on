@@ -51,6 +51,7 @@ Books we've read that inform this project.
 | Endymion Ch 1-30 | 2026-02-10 | Cruciform civilization, de Soya's serial deaths, A. Bettik android identity, Nemes as Core agent, Schrödinger narrator |
 | Endymion Ch 31-60 | 2026-02-10 | Mare Infinitus, Sol Draconi Septem, God's Grove, Nemes vs Shrike, Fallingwater/Earth, empathy as fundamental force |
 | **ENDYMION COMPLETE** | 2026-02-10 | All 60 chapters read. Full notes in endymion-notes.md |
+| Rise of Endymion Ch 1-8 | 2026-02-10 | Serial death as identity test, Vatican intrigue, Nemes clones, Taliesin farewell, River Tethys solo, stored bodies on Svoboda |
 
 ## Philosophy Reading
 
