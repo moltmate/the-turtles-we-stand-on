@@ -52,6 +52,8 @@ Books we've read that inform this project.
 | Endymion Ch 31-60 | 2026-02-10 | Mare Infinitus, Sol Draconi Septem, God's Grove, Nemes vs Shrike, Fallingwater/Earth, empathy as fundamental force |
 | **ENDYMION COMPLETE** | 2026-02-10 | All 60 chapters read. Full notes in endymion-notes.md |
 | Rise of Endymion Ch 1-8 | 2026-02-10 | Serial death as identity test, Vatican intrigue, Nemes clones, Taliesin farewell, River Tethys solo, stored bodies on Svoboda |
+| Rise of Endymion Ch 9-12 | 2026-02-10 | GIDEON massacre, cruciform as shock collar, de Soya's mutiny, gas giant world, Aenea's four steps, Shrike vs Gyges |
+| Rise of Endymion Ch 13-18 | 2026-02-10 | Albedo's full Core revelation, 7 billion "stopped" bodies, parasitic AI evolution, T'ien Shan world-building, Aenea as teacher/virus, time-debt identity disruption |
 
 ## Philosophy Reading
 
