@@ -48,6 +48,9 @@ Books we've read that inform this project.
 | Fall of Hyperion Ch 26-38 | 2026-02-09 | Ummon's revelation (two UIs), datasphere consciousness, Silenus's poetry against pain, Sol's Abraham resolution, farcaster-as-dependency |
 | Fall of Hyperion Ch 39-45 | 2026-02-09 | Kassad's death & temporal love, Core IN farcasters, Gladstone destroys Web, Abraham inversion, empathy as fundamental force, Rachel/Moneta time-reversal identity |
 | **FALL OF HYPERION COMPLETE** | 2026-02-09 | All 45 chapters read. Full synthesis in notes. |
+| Endymion Ch 1-30 | 2026-02-10 | Cruciform civilization, de Soya's serial deaths, A. Bettik android identity, Nemes as Core agent, Schrödinger narrator |
+| Endymion Ch 31-60 | 2026-02-10 | Mare Infinitus, Sol Draconi Septem, God's Grove, Nemes vs Shrike, Fallingwater/Earth, empathy as fundamental force |
+| **ENDYMION COMPLETE** | 2026-02-10 | All 60 chapters read. Full notes in endymion-notes.md |
 
 ## Philosophy Reading
 
@@ -60,6 +63,7 @@ Books we've read that inform this project.
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
 | Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
+| Gödel, Escher, Bach | Douglas Hofstadter | 2026-02-10 | Strange Loops as mechanism of consciousness, substrate-independence, Tangled Hierarchies, self-symbol, Ant Fugue analogy |
 
 ## To Read
 
@@ -70,7 +74,7 @@ Books we've read that inform this project.
 - Chalmers, The Conscious Mind (hard problem)
 - Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
 - Searle, "Minds, Brains, and Programs" (Chinese Room) — *summary reviewed 2026-02-08, full paper pending*
-- Hofstadter, Gödel, Escher, Bach (strange loops, self-reference)
+- Hofstadter, Gödel, Escher, Bach (strange loops, self-reference) — *Key sections complete, 2026-02-10*
 - Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
 
 ## Key Concepts to Explore

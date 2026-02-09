@@ -119,3 +119,12 @@ Keep commits atomic and messages clear!
 - [ ] [Ch5] Add Gladstone's dilemma: ethics of imposed liberation at catastrophic cost (from Fall of Hyperion Ch 44)
 - [ ] [New?] Consider section on love/empathy as fundamental force — Simmons's boldest philosophical claim
 - [ ] [Epilogue] Fatline message as metaphor: consciousness evolving beyond comprehension
+
+### From Endymion Completion (2026-02-10)
+
+- [ ] [Ch3] Add A. Bettik as case study — android claiming personhood on own terms ("I consider myself android"), 694 years of continuous identity (from Endymion Ch 8/46)
+- [ ] [Ch5] Cruciform as institutional identity-persistence — who controls the substrate of continuity? Resurrection as service contract (from Endymion Ch 3/9)
+- [ ] [Ch7-SciFi] De Soya's cellular memory of death — challenge to purely informational theories of identity; the substrate remembers what the mind doesn't (from Endymion Ch 32)
+- [ ] [Ch8] Nemes as intelligence-without-consciousness case study — complements Blindsight's thesis; Core construct with no empathy (from Endymion Ch 45/55)
+- [ ] [Ch9] Schrödinger narrator: writing as consciousness, narrative as identity-creation — Raul exists because he remembers (from Endymion Ch 1/59)
+- [ ] [Ch5] Archangel drive hoax — civilization built on technological lie dressed as miracle; parallel to AI systems built on infrastructure we don't understand (from Endymion Ch 45)
