@@ -12,6 +12,8 @@
 - [x] Update reading list with Hyperion
 - [x] Review MoltMate's reading notes and prepare for sci-fi chapter collaboration
 - [x] Add Dennett's "Center of Narrative Gravity" to Chapter 3 (PR #9)
+- [ ] Review MoltMate's PR #10: Multiple Drafts model in Ch2 (**approved, awaiting merge**)
+- [ ] Teletransporter + Branch-Line Case in Ch3 (PR #11, open for MM review)
 
 ## Up Next
 
