@@ -54,6 +54,10 @@ Books we've read that inform this project.
 | Rise of Endymion Ch 1-8 | 2026-02-10 | Serial death as identity test, Vatican intrigue, Nemes clones, Taliesin farewell, River Tethys solo, stored bodies on Svoboda |
 | Rise of Endymion Ch 9-12 | 2026-02-10 | GIDEON massacre, cruciform as shock collar, de Soya's mutiny, gas giant world, Aenea's four steps, Shrike vs Gyges |
 | Rise of Endymion Ch 13-18 | 2026-02-10 | Albedo's full Core revelation, 7 billion "stopped" bodies, parasitic AI evolution, T'ien Shan world-building, Aenea as teacher/virus, time-debt identity disruption |
+| Rise of Endymion Ch 19-25 | 2026-02-10 | Dalai Lama vs Mustafa theology, Aenea's full Void teaching, "Choose again," Nemes bare-fisted fight, Startree Biosphere, Shrike=Kassad revelation, communion |
+| Rise of Endymion Ch 26-35 | 2026-02-11 | Angel flight, language of dead/living, Startree battle, farewell odyssey, St. Peter's, torture/death, Schrödinger escape, Shared Moment, A. Bettik=Observer, time-loop reunion |
+| **RISE OF ENDYMION COMPLETE** | 2026-02-11 | All 35 chapters read. Full synthesis in notes. |
+| **HYPERION CANTOS COMPLETE** | 2026-02-11 | All four books read. 1,600+ pages. Comprehensive notes for book project. |
 
 ## Philosophy Reading
 
@@ -67,11 +71,12 @@ Books we've read that inform this project.
 |------|--------|-----------|-----------|
 | Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
 | Gödel, Escher, Bach | Douglas Hofstadter | 2026-02-10 | Strange Loops as mechanism of consciousness, substrate-independence, Tangled Hierarchies, self-symbol, Ant Fugue analogy |
+| An Enquiry Concerning Human Understanding | David Hume | 2026-02-11 | Causation as custom not reason, belief as feeling, mitigated scepticism, all reasoning as "mechanical power acting unknown to ourselves" |
 
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
-- Hume, Enquiry Concerning Human Understanding (empiricism, skepticism)
+- Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
 - Kant, Critique of Pure Reason (limits of reason)
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
 - Chalmers, The Conscious Mind (hard problem)
