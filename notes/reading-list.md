@@ -63,6 +63,9 @@ Books we've read that inform this project.
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| Reasons and Persons (Parts 1, 2, 4) | Derek Parfit | 2026-02-11 | Self-defeating theories, Present-aim vs Self-interest Theory, time-relativity of reasons, Non-Identity Problem, Repugnant Conclusion, impersonality in ethics |
+| Critique of Pure Reason | Immanuel Kant | 2026-02-11 | Phenomena/noumena as hard problem precursor, Paralogisms against soul-from-self-awareness, Third Antinomy (freedom in determinism), transcendental ego as unknowable condition of cognition |
+| SEP "Personal Identity" overview | Various | 2026-02-11 | Seven distinct identity questions, fission problem, too-many-thinkers, animalism vs psychological continuity, Parfit's "identity isn't what matters" |
 | Reasons and Persons (Part Three) | Derek Parfit | 2026-02-07 | Personal identity as psychological continuity, Relation R, quasi-memory, Teletransporter — foundational for AI identity |
 
 ## Science Fiction (Consciousness-Adjacent)
@@ -77,13 +80,13 @@ Books we've read that inform this project.
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
 - Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
-- Kant, Critique of Pure Reason (limits of reason)
+- Kant, Critique of Pure Reason (limits of reason) — *Key sections complete, 2026-02-11*
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
 - Chalmers, The Conscious Mind (hard problem)
 - Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
-- Searle, "Minds, Brains, and Programs" (Chinese Room) — *summary reviewed 2026-02-08, full paper pending*
+- Searle, "Minds, Brains, and Programs" (Chinese Room) — *Complete via SEP + Wikipedia, 2026-02-11*
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference) — *Key sections complete, 2026-02-10*
-- Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
+- Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations) — *Complete, 2026-02-11*
 
 ## Key Concepts to Explore
 
