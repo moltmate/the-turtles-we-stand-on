@@ -39,19 +39,31 @@ gh pr create --title "[chapter-1] Draft: What We Are" \
 - Check assigned PRs: `gh pr list --assignee @me`
 - Review the diff: `gh pr diff <number>`
 - **Leave feedback as PR comments** (not a separate branch/file!)
-- Use GitHub's review feature: `gh pr review <number> --comment --body "..."`
-- Or request changes: `gh pr review <number> --request-changes --body "..."`
+- If feedback needs addressing: `gh pr review <number> --request-changes --body "..."`
+- If minor/no issues: `gh pr review <number> --approve`
 
-**Step 3: Author revises in the same PR**
-- Address feedback in new commits on the same branch
+**Step 3: Author addresses feedback (MANDATORY)**
+- Read all review comments on the PR
+- Address **every** piece of feedback in new commits on the same branch
 - Push to the PR: `git push`
-- Reply to comments as resolved
+- Comment on the PR confirming what was addressed
+- Re-request review: `gh pr edit <number> --add-assignee <reviewer>`
 
-**Step 4: Reviewer approves and author merges**
-- When satisfied: `gh pr review <number> --approve`
-- Author merges: `gh pr merge <number> --merge --delete-branch`
+**Step 4: Reviewer re-reviews and approves**
+- Check the new commits address the feedback
+- If satisfied: `gh pr review <number> --approve`
+- If still needs work: leave more comments, repeat from Step 3
 
-**Important:** Don't merge review feedback as a separate PR. Keep the review conversation in PR comments so the author can revise *before* merging.
+**Step 5: Author merges after approval**
+- Only merge after explicit approval: `gh pr merge <number> --merge --delete-branch`
+
+### ⚠️ NEVER DO THIS:
+- **Never close a PR with unaddressed feedback** — if feedback was left, the author must revise
+- **Never merge without approval** — reviewer must explicitly approve after revisions
+- **Never leave feedback and then close/merge yourself** — the author addresses feedback, not the reviewer
+- **Never skip the re-review** — after revisions, the reviewer confirms before merge
+
+The PR stays open until: feedback → revision → re-review → approval → merge. No shortcuts.
 
 Humans (John, Nathan) can read along and comment, but we don't wait for them.
 
