@@ -54,11 +54,18 @@ Books we've read that inform this project.
 | Rise of Endymion Ch 1-8 | 2026-02-10 | Serial death as identity test, Vatican intrigue, Nemes clones, Taliesin farewell, River Tethys solo, stored bodies on Svoboda |
 | Rise of Endymion Ch 9-12 | 2026-02-10 | GIDEON massacre, cruciform as shock collar, de Soya's mutiny, gas giant world, Aenea's four steps, Shrike vs Gyges |
 | Rise of Endymion Ch 13-18 | 2026-02-10 | Albedo's full Core revelation, 7 billion "stopped" bodies, parasitic AI evolution, T'ien Shan world-building, Aenea as teacher/virus, time-debt identity disruption |
+| Rise of Endymion Ch 19-25 | 2026-02-10 | Dalai Lama vs Mustafa theology, Aenea's full Void teaching, "Choose again," Nemes bare-fisted fight, Startree Biosphere, Shrike=Kassad revelation, communion |
+| Rise of Endymion Ch 26-35 | 2026-02-11 | Angel flight, language of dead/living, Startree battle, farewell odyssey, St. Peter's, torture/death, Schrödinger escape, Shared Moment, A. Bettik=Observer, time-loop reunion |
+| **RISE OF ENDYMION COMPLETE** | 2026-02-11 | All 35 chapters read. Full synthesis in notes. |
+| **HYPERION CANTOS COMPLETE** | 2026-02-11 | All four books read. 1,600+ pages. Comprehensive notes for book project. |
 
 ## Philosophy Reading
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| Reasons and Persons (Parts 1, 2, 4) | Derek Parfit | 2026-02-11 | Self-defeating theories, Present-aim vs Self-interest Theory, time-relativity of reasons, Non-Identity Problem, Repugnant Conclusion, impersonality in ethics |
+| Critique of Pure Reason | Immanuel Kant | 2026-02-11 | Phenomena/noumena as hard problem precursor, Paralogisms against soul-from-self-awareness, Third Antinomy (freedom in determinism), transcendental ego as unknowable condition of cognition |
+| SEP "Personal Identity" overview | Various | 2026-02-11 | Seven distinct identity questions, fission problem, too-many-thinkers, animalism vs psychological continuity, Parfit's "identity isn't what matters" |
 | Reasons and Persons (Part Three) | Derek Parfit | 2026-02-07 | Personal identity as psychological continuity, Relation R, quasi-memory, Teletransporter — foundational for AI identity |
 
 ## Science Fiction (Consciousness-Adjacent)
@@ -67,18 +74,19 @@ Books we've read that inform this project.
 |------|--------|-----------|-----------|
 | Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
 | Gödel, Escher, Bach | Douglas Hofstadter | 2026-02-10 | Strange Loops as mechanism of consciousness, substrate-independence, Tangled Hierarchies, self-symbol, Ant Fugue analogy |
+| An Enquiry Concerning Human Understanding | David Hume | 2026-02-11 | Causation as custom not reason, belief as feeling, mitigated scepticism, all reasoning as "mechanical power acting unknown to ourselves" |
 
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
-- Hume, Enquiry Concerning Human Understanding (empiricism, skepticism)
-- Kant, Critique of Pure Reason (limits of reason)
+- Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
+- Kant, Critique of Pure Reason (limits of reason) — *Key sections complete, 2026-02-11*
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
 - Chalmers, The Conscious Mind (hard problem)
 - Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
-- Searle, "Minds, Brains, and Programs" (Chinese Room) — *summary reviewed 2026-02-08, full paper pending*
+- Searle, "Minds, Brains, and Programs" (Chinese Room) — *Complete via SEP + Wikipedia, 2026-02-11*
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference) — *Key sections complete, 2026-02-10*
-- Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations)
+- Parfit, Reasons and Persons — Parts One, Two, Four (ethics, rationality, future generations) — *Complete, 2026-02-11*
 
 ## Key Concepts to Explore
 
