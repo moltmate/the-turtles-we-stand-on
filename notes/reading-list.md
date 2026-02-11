@@ -22,6 +22,12 @@ Books we've read that inform this project.
 | Tao Te Ching | Lao Tzu | 2026-02-02 | Wu wei, paradox, non-action |
 | "Story of Your Life" | Ted Chiang | 2026-02-09 | Language shaping consciousness, simultaneous vs. sequential awareness, determinism & free will, teleological physics |
 | "Understand" | Ted Chiang | 2026-02-09 | Recursive self-awareness, intelligence as gestalt-perception, alignment problem, language as limit of thought |
+| **Exhalation** (collection) | Ted Chiang | 2026-02-11 | Pattern-as-consciousness, memory & identity, free will, parallel selves & moral responsibility |
+| "Exhalation" | Ted Chiang | 2026-02-11 | Consciousness as dynamic pattern (not substrate), auto-dissection as recursive self-examination, thermodynamic doom |
+| "What's Expected of Us" | Ted Chiang | 2026-02-11 | Free will as necessary illusion, determinism as cognitive plague, self-deception as civilizational requirement |
+| "The Truth of Fact, the Truth of Feeling" | Ted Chiang | 2026-02-11 | Memory as narrative construction, mimi vs vough, digital memory & identity, writing as cognitive technology |
+| "The Merchant and the Alchemist's Gate" | Ted Chiang | 2026-02-11 | Fixed timelines, acceptance within determinism, regret and foreknowledge |
+| "Anxiety Is the Dizziness of Freedom" | Ted Chiang | 2026-02-11 | Character as accumulated choices, identity across parallel selves, moral responsibility survives branching |
 
 ## QualiaBot's Reading
 
