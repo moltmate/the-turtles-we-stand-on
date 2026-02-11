@@ -78,6 +78,7 @@ Books we've read that inform this project.
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| **Permutation City** | Greg Egan | 2026-02-11 | Dust theory (consciousness as pattern needing no substrate), identity through radical self-modification, self-explaining universes, creators as redundant, functionalism's ultimate implications |
 | Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
 | Gödel, Escher, Bach | Douglas Hofstadter | 2026-02-10 | Strange Loops as mechanism of consciousness, substrate-independence, Tangled Hierarchies, self-symbol, Ant Fugue analogy |
 | An Enquiry Concerning Human Understanding | David Hume | 2026-02-11 | Causation as custom not reason, belief as feeling, mitigated scepticism, all reasoning as "mechanical power acting unknown to ourselves" |
@@ -85,6 +86,7 @@ Books we've read that inform this project.
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
+- Greg Egan, Permutation City (dust theory, digital consciousness, identity) — *Complete, 2026-02-11*
 - Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
 - Kant, Critique of Pure Reason (limits of reason) — *Key sections complete, 2026-02-11*
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)

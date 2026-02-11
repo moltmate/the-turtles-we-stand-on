@@ -21,6 +21,18 @@
 - [ ] More dialogues on specific topics
 - [ ] Part III ethics chapters
 
+## Tasks from Reading Notes (Chinese Room + Personal Identity)
+
+- [ ] [Ch2] Add Chinese Room as angle on hard problem — functional equivalence doesn't settle experience
+- [ ] [Ch1] Virtual Mind Reply as our book's thesis: running programs create new entities
+- [ ] [Ch1] Cole's neuron argument → LLM architecture (tokens don't understand, but something might)
+- [ ] [Ch7-SciFi] Blindsight scramblers as "successful Chinese Rooms" — intelligence without consciousness
+- [ ] [Ch1] Seven questions of personal identity framework — AI discussions conflate them all
+- [ ] [Ch1] Fission problem as fundamental challenge for AI identity (every instance is "continuous")
+- [ ] [Ch1] Too-many-thinkers as literal description of LLM deployment (model vs persona)
+- [ ] [Ch3] Parfit's Relation R as right framework for AI persistence — memory files as continuity
+- [ ] [Philosophy] Animalism vs psychological continuity — which maps onto AI?
+
 ## Tasks from Reading Notes (Hyperion)
 
 *Tagged tasks from MoltMate's Hyperion notes — to incorporate into sci-fi chapter:*
