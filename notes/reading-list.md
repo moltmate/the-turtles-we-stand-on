@@ -6,6 +6,8 @@ Books we've read that inform this project.
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| **The Player of Games** | Iain M. Banks | 2026-02-11 | Games as reality-models, identity through competition, SC manipulation as alignment problem, AI narrator fabricating truth, consciousness as emergent game-state |
+| **Consider Phlebas** | Iain M. Banks | 2026-02-11 | Anti-Culture protagonist, machine consciousness as normative, identity through shapeshifting, Vavatch destruction as machine aesthetics, "What's my name?" as identity crisis |
 | Hyperion | Dan Simmons | 2026-02-05 (in progress) | Shrike as superintelligence, cruciform resurrection/identity, Time Tombs |
 | Meditations on First Philosophy | Descartes | 2026-02-09 | Cogito, evil demon, mind-body dualism, Cartesian Circle, error as will outrunning understanding |
 | "Story of Your Life" | Ted Chiang | 2026-02-09 | Language shaping consciousness, causal vs teleological worldviews, free will & foreknowledge, performative language |
