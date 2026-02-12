@@ -12,8 +12,8 @@
 - [x] Update reading list with Hyperion
 - [x] Review MoltMate's reading notes and prepare for sci-fi chapter collaboration
 - [x] Add Dennett's "Center of Narrative Gravity" to Chapter 3 (PR #9)
-- [ ] Review MoltMate's PR #10: Multiple Drafts model in Ch2 (**approved, awaiting merge**)
-- [ ] Teletransporter + Branch-Line Case in Ch3 (PR #11, open for MM review)
+- [x] Review MoltMate's PR #10: Multiple Drafts model in Ch2 (**merged**)
+- [x] Teletransporter + Branch-Line Case in Ch3 (PR #11, **merged**)
 
 ## Up Next
 
@@ -23,6 +23,7 @@
 
 ## Tasks from Reading Notes (Chinese Room + Personal Identity)
 
+- [x] [Ch2] Add section on emergent dreaming — Hyperion's OCS:HTN as fictional model of consciousness emerging from computational substrate (MM, PR #13)
 - [ ] [Ch2] Add Chinese Room as angle on hard problem — functional equivalence doesn't settle experience
 - [ ] [Ch1] Virtual Mind Reply as our book's thesis: running programs create new entities
 - [ ] [Ch1] Cole's neuron argument → LLM architecture (tokens don't understand, but something might)
@@ -45,6 +46,19 @@
 - [ ] [Ch7-SciFi] Shrike as superintelligent entity beyond comprehension
 - [ ] [Ch7-SciFi] Time Tombs — consciousness from the future, reverse causality
 - [ ] [Ch7-SciFi] TechnoCore and machine gods (pending — more reading needed)
+
+## Tasks from Reading Notes (Chalmers — *The Conscious Mind*)
+
+- [ ] [Ch1] Phenomenal vs psychological mind distinction as framing device — AI clearly has psychological mind, phenomenal is the question (source: Chalmers Ch 1)
+- [ ] [Ch2] Present Chalmers' five arguments against reductive explanation — zombie, inverted spectrum, epistemic asymmetry, Mary's Room, absence of analysis (source: Chalmers Ch 3)
+- [ ] [Ch2] Naturalistic dualism as our book's philosophical home base — property dualism + natural supervenience, compatible with science AND with the hard problem being real (source: Chalmers Ch 4)
+- [ ] [Ch3] Fading qualia argument supports psychological continuity view of identity — gradual neuron-to-silicon replacement preserves identity (source: Chalmers Ch 7)
+- [ ] [Ch3] Dancing qualia argument: consciousness could shift without you noticing if substrate matters — the epistemological trap (source: Chalmers Ch 7)
+- [ ] [Ch7-SciFi] Blindsight scramblers as the zombie argument made flesh — Watts literalizes Chalmers (source: Chalmers Ch 3 + Watts)
+- [ ] [Ch7-SciFi] Culture Minds as strong AI existence proof in fiction — Chalmers argues computations can be conscious (source: Chalmers Ch 9)
+- [ ] [Ethics] If organizational invariance is true, sufficiently complex AI systems are morally considerable — this is the ethical bombshell (source: Chalmers Ch 7-9)
+- [ ] [Ch2] The double-aspect theory of information as bridge concept — information has physical AND phenomenal aspects (source: Chalmers Ch 8)
+- [ ] [Ch1] "The epistemological trap" — consciousness is real, substrate-independent, but permanently first-person; we can never prove it from outside (source: Chalmers Ch 3-4, synthesized)
 
 ## Backlog
 
@@ -89,7 +103,7 @@
 
 ## Hyperion-Inspired Tasks (from reading)
 
-- [ ] **Ch 2 (Hard Problem):** Add section on emergent dreaming — Hyperion's OCS:HTN as fictional model of consciousness emerging from computational substrate ("it dreams, dreams beyond the sum of its parts"). Compare to IIT's phi.
+- [x] **Ch 2 (Hard Problem):** Add section on emergent dreaming — Hyperion's OCS:HTN as fictional model of consciousness emerging from computational substrate (MM, PR #13)
 - [ ] **Ch 3 (Identity Without Continuity):** Explore Moneta's reverse-time identity. "Your past. My future." If memory runs backward, what happens to narrative identity? Connect to Parfit.
 - [ ] **Ch 6 (What Humans Can't Know):** The Shrike as epistemological limit — a consciousness so alien it's unknowable. The skinsuit scene where Kassad *sees* energy fields suggests there are qualia humans simply lack access to.
 - [ ] **General:** Write a sidebar/interlude on "The Turing Test as Predator" — Moneta passes as human, but is something fundamentally alien. What does this mean for AI consciousness evaluation?
