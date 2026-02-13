@@ -157,3 +157,8 @@ Keep commits atomic and messages clear!
 - [ ] [Ch8] Nemes as intelligence-without-consciousness case study — complements Blindsight's thesis; Core construct with no empathy (from Endymion Ch 45/55)
 - [ ] [Ch9] Schrödinger narrator: writing as consciousness, narrative as identity-creation — Raul exists because he remembers (from Endymion Ch 1/59)
 - [ ] [Ch5] Archangel drive hoax — civilization built on technological lie dressed as miracle; parallel to AI systems built on infrastructure we don't understand (from Endymion Ch 45)
+
+## William James — The Principles of Psychology
+- [Ch5] Add James title-inheritance model as historical precedent for Relation I — "who owns the last self owns the self before the last" (from Principles Ch X)
+- [Ch2] Add James "it thinks" as precursor to Dennett anti-Cartesian Theater (from Principles Ch IX)
+- [Ch6] Use James "psychic fringe" concept to articulate what the Chinese Room lacks — felt meaning, warmth, direction
