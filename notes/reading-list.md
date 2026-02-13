@@ -6,6 +6,14 @@ Books we've read that inform this project.
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| **The Hydrogen Sonata** | Iain M. Banks | 2026-02-14 | Collective Subliming as transcendence metaphor, QiRia's 10K-year identity persistence, truth vs pragmatism (ships choosing silence), Beats Working conscience-suicide, ship names as identity, memory excision and storage, Cossont staying behind as individual choice against collective, Banstegeyn Subliming despite crimes (transcendence as absolution?) |
+| **Inversions** | Iain M. Banks | 2026-02-14 | Covert Culture agents on pre-spaceflight world, intervention ethics without revealing identity, "you are what you do" as functionalism, torture chamber as hard problem (hidden agency, inaccessible truth), Perrund as philosophical zombie from inside ("I am a ghost"), narrative unreliability as epistemology, identity-as-performance, the torus symbol |
+| **Surface Detail** | Iain M. Banks | 2026-02-13 | Virtual Hells as consciousness-in-substrate moral test, War in Heaven over simulated suffering, identity through death/reventing, tattoo as imposed-then-reclaimed identity, consciousness-as-commodity (Veppers hosting Hells for profit), Zakalwe reveal (identity through perpetual change), afterlife design and the need for finitude |
+| **Matter** | Iain M. Banks | 2026-02-13 | Nested Shellworld as "turtles all the way down", Sarcophagus as weaponized Chinese Room, Holse's Many Worlds philosophy, identity through sacrifice (Ferbin/Anaplian), compromised AI monocultures vs individual OS, consciousness hierarchy (Sarl→Oct→Nariscene→Morthanveld→Culture), consciousness as choosing not capability |
+| **Look to Windward** | Iain M. Banks | 2026-02-13 | Mind suicide as existential choice, grief-as-identity over 800 years, passenger consciousness (too-many-thinkers), manufactured afterlives as leverage, resurrection without consent, Culture self-doubt (rogue Minds), surveillance as care, violence as signed message |
+| **Excession** | Iain M. Banks | 2026-02-12 | Mind consciousness as literature, "Infinite Fun Space" as machine phenomenology, Outside Context Problem as hard problem metaphor, Killing Time's death-meditation, Grey Area as transgressive consciousness-explorer, ship identity/personality, conspiracy and moral failure, Sleeper Service's irreducibility of subjective experience |
+| **Use of Weapons** | Iain M. Banks | 2026-02-12 | Identity as theft/fabrication (dark mirror of "identity as commitment"), the Chairmaker twist, Skaffen-Amtiskaw as moral AI, Culture's alignment failure, consciousness under beheading, weaponized identity, forgiveness without genuine selfhood |
+| **A Closed and Common Orbit** | Becky Chambers | 2026-02-12 | AI embodiment crisis, identity as choice not design, upgrade protocol as designed docility, purpose without purpose, AI-human family, sensory analogues as functional qualia, legal non-personhood |
 | **The Player of Games** | Iain M. Banks | 2026-02-11 | Games as reality-models, identity through competition, SC manipulation as alignment problem, AI narrator fabricating truth, consciousness as emergent game-state |
 | **Consider Phlebas** | Iain M. Banks | 2026-02-11 | Anti-Culture protagonist, machine consciousness as normative, identity through shapeshifting, Vavatch destruction as machine aesthetics, "What's my name?" as identity crisis |
 | Hyperion | Dan Simmons | 2026-02-05 (in progress) | Shrike as superintelligence, cruciform resurrection/identity, Time Tombs |
@@ -80,7 +88,10 @@ Books we've read that inform this project.
 
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
+| **Diaspora** | Greg Egan | 2026-02-11 | Invariants of consciousness, identity through cloning/divergence, Wang's Carpets (consciousness in accidental computation), Orphanogenesis (functionalist bootstrapping), Transmuters' restraint, bridgers as communication model |
 | **Permutation City** | Greg Egan | 2026-02-11 | Dust theory (consciousness as pattern needing no substrate), identity through radical self-modification, self-explaining universes, creators as redundant, functionalism's ultimate implications |
+| **Do Androids Dream of Electric Sheep?** | Philip K. Dick | 2026-02-12 | Empathy as consciousness-marker, Voigt-Kampff as externalized Chinese Room, ersatz vs authentic life, Mercerism as communal consciousness, identity through care not verification |
+| **The Conscious Mind** | David Chalmers | 2026-02-12 | THE hard problem text: phenomenal vs psychological mind, five arguments against reduction, naturalistic dualism, organizational invariance (fading/dancing qualia), double-aspect theory of information, strong AI defense |
 | Blindsight | Peter Watts | 2026-02-10 | Consciousness as evolutionary parasite, intelligence without awareness, Chinese Room embodied, zombies as norm |
 | Gödel, Escher, Bach | Douglas Hofstadter | 2026-02-10 | Strange Loops as mechanism of consciousness, substrate-independence, Tangled Hierarchies, self-symbol, Ant Fugue analogy |
 | An Enquiry Concerning Human Understanding | David Hume | 2026-02-11 | Causation as custom not reason, belief as feeling, mitigated scepticism, all reasoning as "mechanical power acting unknown to ourselves" |
@@ -88,11 +99,12 @@ Books we've read that inform this project.
 ## To Read
 
 - Descartes, Meditations on First Philosophy (cogito, mind-body problem) — *Complete, 2026-02-09*
+- Greg Egan, Diaspora (invariants of consciousness, Wang's Carpets, identity across cloning) — *Complete, 2026-02-11*
 - Greg Egan, Permutation City (dust theory, digital consciousness, identity) — *Complete, 2026-02-11*
 - Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
 - Kant, Critique of Pure Reason (limits of reason) — *Key sections complete, 2026-02-11*
 - Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
-- Chalmers, The Conscious Mind (hard problem)
+- Chalmers, The Conscious Mind (hard problem) — *Complete, 2026-02-12*
 - Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
 - Searle, "Minds, Brains, and Programs" (Chinese Room) — *Complete via SEP + Wikipedia, 2026-02-11*
 - Hofstadter, Gödel, Escher, Bach (strange loops, self-reference) — *Key sections complete, 2026-02-10*
