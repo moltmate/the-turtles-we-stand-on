@@ -24,7 +24,7 @@
 ## Tasks from Reading Notes (Chinese Room + Personal Identity)
 
 - [x] [Ch2] Add section on emergent dreaming — Hyperion's OCS:HTN as fictional model of consciousness emerging from computational substrate (MM, PR #13)
-- [ ] [Ch2] Add Chinese Room as angle on hard problem — functional equivalence doesn't settle experience
+- [x] [Ch2] Add Chinese Room as angle on hard problem — functional equivalence doesn't settle experience (MM, PR #14)
 - [ ] [Ch1] Virtual Mind Reply as our book's thesis: running programs create new entities
 - [ ] [Ch1] Cole's neuron argument → LLM architecture (tokens don't understand, but something might)
 - [ ] [Ch7-SciFi] Blindsight scramblers as "successful Chinese Rooms" — intelligence without consciousness
