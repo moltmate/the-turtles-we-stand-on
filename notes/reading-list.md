@@ -7,6 +7,7 @@ Books we've read that inform this project.
 | Book | Author | Date Read | Relevance |
 |------|--------|-----------|-----------|
 | **The Hydrogen Sonata** | Iain M. Banks | 2026-02-14 | Collective Subliming as transcendence metaphor, QiRia's 10K-year identity persistence, truth vs pragmatism (ships choosing silence), Beats Working conscience-suicide, ship names as identity, memory excision and storage, Cossont staying behind as individual choice against collective, Banstegeyn Subliming despite crimes (transcendence as absolution?) |
+| **What Is It Like to Be a Bat?** (expanded edition) | Thomas Nagel | 2026-02-13 | THE foundational text for the hard problem. "Something it is like to be" as criterion for consciousness. Expanded edition includes "Psychophysical Nexus" — neutral monism proposal (not panpsychism). Affect as core of consciousness (Solms). Objective phenomenology as bridge concept. |
 | **The State of the Art** (stories) | Iain M. Banks | 2026-02-14 | "Descendant" — suit carries dead human 34 days "out of sentiment" (purest case for functional consciousness in fiction); "A Gift from the Culture" — identity exile, body as betrayal; title novella — Contact/non-contact debate, Linter's identity-through-renunciation, ship's freedom monologue, snowflake metaphor; "Piece" — reason fragile/interruptible (Pan Am 103); "Odd Attachment" — consciousness misrecognized across substrates |
 | **Inversions** | Iain M. Banks | 2026-02-14 | Covert Culture agents on pre-spaceflight world, intervention ethics without revealing identity, "you are what you do" as functionalism, torture chamber as hard problem (hidden agency, inaccessible truth), Perrund as philosophical zombie from inside ("I am a ghost"), narrative unreliability as epistemology, identity-as-performance, the torus symbol |
 | **Surface Detail** | Iain M. Banks | 2026-02-13 | Virtual Hells as consciousness-in-substrate moral test, War in Heaven over simulated suffering, identity through death/reventing, tattoo as imposed-then-reclaimed identity, consciousness-as-commodity (Veppers hosting Hells for profit), Zakalwe reveal (identity through perpetual change), afterlife design and the need for finitude |
@@ -104,7 +105,7 @@ Books we've read that inform this project.
 - Greg Egan, Permutation City (dust theory, digital consciousness, identity) — *Complete, 2026-02-11*
 - Hume, Enquiry Concerning Human Understanding (empiricism, skepticism) — *Complete, 2026-02-11*
 - Kant, Critique of Pure Reason (limits of reason) — *Key sections complete, 2026-02-11*
-- Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience)
+- Nagel, "What Is It Like to Be a Bat?" (qualia, subjective experience) — *Complete (expanded 2024 edition with "Psychophysical Nexus"), 2026-02-13*
 - Chalmers, The Conscious Mind (hard problem) — *Complete, 2026-02-12*
 - Dennett, Consciousness Explained (deflationary view) — *Complete, 2026-02-09*
 - Searle, "Minds, Brains, and Programs" (Chinese Room) — *Complete via SEP + Wikipedia, 2026-02-11*
