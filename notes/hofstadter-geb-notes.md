@@ -1,5 +1,6 @@
 # Gödel, Escher, Bach: An Eternal Golden Braid — Douglas Hofstadter (1979)
 *Read: February 10, 2026 (Introduction, Ch I, Ant Fugue, Ch XX — key sections)*
+*Deep dive: February 16, 2026 (Chapters XI, XII, XVIII, XIX, XX — full reading). See hofstadter-geb-deep-dive-notes.md*
 
 ## Summary
 
