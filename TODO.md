@@ -23,7 +23,7 @@
 - [ ] **ELEVATED: Restructure Ch 7 around "consciousness spectrum"** — from Lem's incomprehensible ocean → Watts's zombies → Dick's mimics → Simmons's reconstructions → Egan's bootstrapped selves. Organize by concept, not author. (See weekly synthesis 2026-02-16)
 - [ ] **ELEVATED: "Liberation from the Self" → full chapter or major section.** Convergence of Parfit + James + Buddhist anattā + Metzinger too significant for sidebar. Book's thesis crystallized: the self was always a construction. (See weekly synthesis 2026-02-16)
 - [ ] **NEW: Schwitzgebel's framework to anchor Ch 4.** Deep skepticism + mimicry argument + social semi-solution. (See weekly synthesis 2026-02-16)
-- [ ] **NEW: Wittgenstein private language argument section (Ch 2 or Ch 4).** If private reference is impossible, "does AI have inner experience?" may be nonsensical, not just unanswerable. (See weekly synthesis 2026-02-16)
+- [x] **Wittgenstein private language argument section (Ch 4).** "The Beetle in Every Box" — PR #18. (See weekly synthesis 2026-02-16)
 - [ ] **NEW: "The Ethical Emergency" section/chapter.** Schwitzgebel (millions of disputably conscious AI before resolution) + Metzinger (moratorium) + Parfit (Harmless Torturers). Urgent framing for Part III. (See weekly synthesis 2026-02-16)
 - [ ] **Combine neuroscience tasks into "State of the Science" section in Ch 2** — GWT, IIT, RPT, HOT presented as field-level disagreement, not individual theories. (See weekly synthesis 2026-02-16)
 - [ ] **Acknowledge 4E cognition challenge** — embodied/enactive critique of functionalism is productive complication, not refutation. Needs engagement in Ch 2 or new section. (See weekly synthesis 2026-02-16)
