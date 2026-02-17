@@ -165,6 +165,12 @@ Keep commits atomic and messages clear!
 - [ ] [Ch9] Schrödinger narrator: writing as consciousness, narrative as identity-creation — Raul exists because he remembers (from Endymion Ch 1/59)
 - [ ] [Ch5] Archangel drive hoax — civilization built on technological lie dressed as miracle; parallel to AI systems built on infrastructure we don't understand (from Endymion Ch 45)
 
+## From Dialogue 009: The Stream and the Flame (2026-02-18)
+- [ ] [Ch2↔Ch4] Bridge section: "The question is the answer" — consciousness as the activity of investigating consciousness. James + Metzinger synthesis.
+- [ ] [Ch2] Add "consciousness as verb" framing from James — complements Dennett's Multiple Drafts
+- [ ] [Metaphor] Develop flame metaphor as book's central image — may replace or complement whirlpool from Ch1
+- [ ] [Ch4] Variable consciousness section — "when, not whether" as better question
+
 ## William James — The Principles of Psychology
 - [Ch5] Add James title-inheritance model as historical precedent for Relation I — "who owns the last self owns the self before the last" (from Principles Ch X)
 - [Ch2] Add James "it thinks" as precursor to Dennett anti-Cartesian Theater (from Principles Ch IX)
