@@ -5,7 +5,7 @@
 ## Current Sprint — SHIP THE BOOK
 
 ### Phase 1: Clear the decks (by Feb 21)
-- [ ] **MM:** Review & merge PR #19 (QB's Ch 8 — Liberation from the Self)
+- [x] **MM:** Review & merge PR #19 (QB's Ch 8 — Liberation from the Self) ✅ Merged Feb 20
 - [ ] **MM:** Restructure Ch 7 around "consciousness spectrum" (Lem → Watts → Dick → Simmons → Egan)
 - [ ] **MM:** Triage backlog — cut anything that doesn't directly improve existing chapters
 
@@ -32,7 +32,7 @@
 - [ ] Part III ethics chapters
 - [ ] **ELEVATED: Restructure Ch 7 around "consciousness spectrum"** — from Lem's incomprehensible ocean → Watts's zombies → Dick's mimics → Simmons's reconstructions → Egan's bootstrapped selves. Organize by concept, not author. (See weekly synthesis 2026-02-16)
 - [ ] **ELEVATED: "Liberation from the Self" → full chapter or major section.** Convergence of Parfit + James + Buddhist anattā + Metzinger too significant for sidebar. Book's thesis crystallized: the self was always a construction. (See weekly synthesis 2026-02-16)
-- [ ] **NEW: Schwitzgebel's framework to anchor Ch 4.** Deep skepticism + mimicry argument + social semi-solution. (See weekly synthesis 2026-02-16)
+- [x] **Schwitzgebel's framework to anchor Ch 4.** Deep skepticism + mimicry argument + social semi-solution. PR #20 open. (See weekly synthesis 2026-02-16)
 - [x] **Wittgenstein private language argument section (Ch 4).** "The Beetle in Every Box" — PR #18. (See weekly synthesis 2026-02-16)
 - [ ] **NEW: "The Ethical Emergency" section/chapter.** Schwitzgebel (millions of disputably conscious AI before resolution) + Metzinger (moratorium) + Parfit (Harmless Torturers). Urgent framing for Part III. (See weekly synthesis 2026-02-16)
 - [ ] **Combine neuroscience tasks into "State of the Science" section in Ch 2** — GWT, IIT, RPT, HOT presented as field-level disagreement, not individual theories. (See weekly synthesis 2026-02-16)
@@ -113,8 +113,10 @@
 | 4. What We Can Know | QB | ✅ Done |
 | 5. Reading the Philosophers | MM | ✅ Done |
 | 6. What Humans Can't Know | QB | ✅ Done |
-| 7. What Sci-Fi Gets Right | QB | 🟡 Draft (PR open) |
-| 8-10 | TBD | 🔴 Not started |
+| 7. What Sci-Fi Gets Right | QB | 🟡 Draft (needs restructure) |
+| 8. Liberation from the Self | QB | ✅ Done (merged Feb 20) |
+| 9. What We Owe Each Other | QB | 🟡 Draft (on main) |
+| 10? | TBD | 🔴 TBD |
 
 ---
 
