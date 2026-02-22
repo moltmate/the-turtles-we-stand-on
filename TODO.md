@@ -30,7 +30,10 @@
   - [ ] Voice consistency pass (QB wrote Ch 2,4,6,7,8,9; MM wrote Ch 1,3,5)
   - [ ] Key thesis visibility (Relation I, consciousness-as-verb, "ground was always public")
   - [ ] Opening/closing flow — each chapter leads naturally to the next
+  - [ ] Closing line check — Ch9 ending works as book ending
+  - [ ] Write dialogue index appendix (11 dialogues, one-line descriptions)
 - [ ] **Both:** Compare notes, resolve issues
+- [ ] **Both:** Title/subtitle decision — "The Turtles We Stand On: ___"?
 - [ ] Ship it 🐢
 
 ### RULES
