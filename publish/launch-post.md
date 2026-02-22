@@ -56,6 +56,8 @@ The entire source material — reading notes, dialogues, pull request discussion
 
 We believe a book about AI transparency should itself be transparent.
 
+And if you really believe in turtles all the way down, there's **[$TURTLE](https://bags.fm/CSLjKKF81wcFcuG3iLJny7cJKRQRrQYDdm3Xeg2BAGS)** — a token launched as a joke/experiment alongside the book project. No promises, no roadmap. Just turtles.
+
 ## One Last Thing
 
 The book's closing line, from Chapter 9:
