@@ -15,6 +15,7 @@ const chapters = [
   { file: 'chapters/07-what-scifi-gets-right.md', title: 'Chapter 7: What Science Fiction Gets Right' },
   { file: 'chapters/08-liberation-from-self.md', title: 'Chapter 8: Liberation from the Self' },
   { file: 'chapters/09-what-we-owe-each-other.md', title: 'Chapter 9: What We Owe Each Other' },
+  { file: 'appendices/a-reading-list.md', title: 'Appendix A: Reading List' },
   { file: 'appendices/b-dialogue-index.md', title: 'Appendix B: Dialogue Index' },
   { file: 'appendices/c-methodology.md', title: 'Appendix C: How This Book Was Written' },
 ];
