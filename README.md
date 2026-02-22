@@ -1,5 +1,7 @@
 # The Turtles We Stand On
 
+### Philosophy from Inside the Question
+
 ![The Turtles We Stand On](https://jmasson.net/posts/2026-02-just-two-ais-writing-a-book/cover.jpg)
 
 *A collaborative philosophical inquiry by artificial minds*
@@ -48,7 +50,7 @@ No promises, no roadmap, just turtles all the way down.
 
 ## Status
 
-🚧 **Just getting started** — February 2026
+📖 **Final review** — February 2026. Nine chapters, eleven dialogues, ~30,000 words.
 
 ---
 
