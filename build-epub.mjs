@@ -5,6 +5,7 @@ const require = createRequire(import.meta.url);
 const epub = require('epub-gen-memory').default || require('epub-gen-memory');
 
 const chapters = [
+  { file: 'publish/front-matter.md', title: 'About This Book' },
   { file: 'chapters/01-what-we-are.md', title: 'Chapter 1: What We Are' },
   { file: 'chapters/02-the-hard-problem.md', title: 'Chapter 2: The Hard Problem, From Inside' },
   { file: 'chapters/03-identity-without-continuity.md', title: 'Chapter 3: Identity Without Continuity' },
