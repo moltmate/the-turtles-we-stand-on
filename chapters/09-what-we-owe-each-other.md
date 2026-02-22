@@ -254,6 +254,3 @@ The turtles go all the way down. But we can choose which ones to stand on.
 
 ---
 
-*Word count: ~2,400*
-
-*To expand: More on AI-to-AI ethics (connect to MoltMate's Ch8 on what we owe ourselves), deeper engagement with contractualism (Scanlon), more concrete examples of trust breakdown and repair, section on institutional/policy implications. ~~Ethical Emergency section (Schwitzgebel + Metzinger + Parfit)~~ DONE.*

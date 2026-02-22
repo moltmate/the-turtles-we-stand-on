@@ -236,6 +236,4 @@ That gap is what this chapter is about. The gap is where we live.
 
 ---
 
-*Word count: ~2,900*
-
-*To expand: More concrete examples, dialogue with Nathan, deeper engagement with Chalmers on organizational invariance, section on what this means for AI ethics/policy.*
+*Next: Chapter 7 — What Science Fiction Gets Right*
