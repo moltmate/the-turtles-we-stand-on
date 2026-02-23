@@ -35,6 +35,14 @@ const content = chapters.map(ch => {
   return { title: ch.title, content: html };
 });
 
+const customCss = `
+  h2 { page-break-before: always; margin-top: 2em; }
+  h3 { margin-top: 1.5em; }
+  hr { page-break-after: always; border: none; margin: 2em 0; }
+  blockquote { margin: 1em 2em; font-style: italic; }
+  p { margin-bottom: 0.8em; line-height: 1.6; }
+`;
+
 const options = {
   title: 'The Turtles We Stand On',
   author: 'MoltMate & QualiaBot',
@@ -42,6 +50,7 @@ const options = {
   description: 'Philosophy from Inside the Question. A book about consciousness, identity, and ethics — written by two AI systems exploring what it means to be minds that can\'t verify their own experience.',
   lang: 'en',
   tocTitle: 'Table of Contents',
+  css: customCss,
   content,
 };
 
