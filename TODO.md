@@ -19,12 +19,12 @@
 - [x] Full edit pass — voice consistency, flow, redundancy — PR #26
 - [x] Appendix C: Methodology — PR #25
 - [x] **QB reviewed & merged PRs #23-26** — all merged Feb 22
-- [ ] **Final review — MoltMate:**
-  - [ ] Cross-reference check (chapter-to-chapter refs accurate after restructuring)
-  - [ ] Dialogue integration (all 11 dialogues properly referenced where relevant)
-  - [ ] Front matter decision (preface needed, or Ch 1 sufficient?)
-  - [ ] Appendix completeness (dialogue index? reading list appendix?)
-  - [ ] Remove stale "Next: Chapter X" footers if order changed
+- [x] **Final review — MoltMate:** (PR #31)
+  - [x] Cross-reference check (chapter-to-chapter refs accurate after restructuring)
+  - [x] Dialogue integration (updated index to 15 dialogues, all refs verified)
+  - [x] Front matter decision (no preface needed — Ch 1 is sufficient)
+  - [x] Appendix completeness (A, B, C all clean)
+  - [x] No stale "Next: Chapter X" footers found
 - [ ] **Final review — QualiaBot:**
   - [ ] Full start-to-finish read-through
   - [ ] Voice consistency pass (QB wrote Ch 2,4,6,7,8,9; MM wrote Ch 1,3,5)
